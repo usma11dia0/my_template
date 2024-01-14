@@ -34,11 +34,12 @@
 
 ## プロジェクトについて
 <!-- プロジェクトの概要を記載 -->
+サンプル
 
 ## 環境
 <!-- 言語、フレームワーク、ミドルウェア、インフラの一覧とバージョンを記載 -->
 
-| 言語・フレームワーク  | バージョン |
+| 言語・フレームワーク    | バージョン |
 | --------------------- | ---------- |
 | Python                | 3.11.4     |
 | Django                | 4.2.1      |
@@ -51,64 +52,41 @@
 
 その他のパッケージのバージョンは pyproject.toml と package.json を参照してください
 
-<p align="right">(<a href="#top">トップへ</a>)</p>
-
 ## ディレクトリ構成
 <!-- Treeコマンドを使ってディレクトリ構成を記載 -->
 <!-- ❯ tree -a -I "node_modules|.next|.git|.pytest_cache|static" -L 2 -->
 
 ```text
-.
-├── .devcontainer
-│   └── devcontainer.json
-├── .env
-├── .github
-│   ├── action
-│   ├── release-drafter.yml
-│   └── workflows
+backend
 ├── .gitignore
-├── Makefile
-├── README.md
-├── backend
-│   ├── .vscode
-│   ├── application
-│   ├── docs
-│   ├── manage.py
-│   ├── output
-│   ├── poetry.lock
-│   ├── project
-│   └── pyproject.toml
-├── containers
-│   ├── django
-│   ├── front
-│   ├── mysql
-│   └── nginx
-├── docker-compose.yml
-├── frontend
-│   ├── .gitignore
-│   ├── README.md
-│   ├── __test__
-│   ├── components
-│   ├── features
-│   ├── next-env.d.ts
-│   ├── package-lock.json
-│   ├── package.json
-│   ├── pages
-│   ├── postcss.config.js
-│   ├── public
-│   ├── styles
-│   ├── tailwind.config.js
-│   └── tsconfig.json
-└── infra
-    ├── .gitignore
-    ├── docker-compose.yml
-    ├── main.tf
-    ├── network.tf
-    └── variables.tf
+├── api
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── migrations
+│   ├── models.py
+│   ├── serializers.py
+│   ├── tests.py
+│   ├── urls.py
+│   └── views.py
+├── japanese_quiz_api
+│   ├── __init__.py
+│   ├── asgi.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+├── manage.py
+├── media
+│   ├── audios
+│   └── images
+├── model
+│   ├── japanese_classification.pt
+│   └── predict.py
+├── requirements-dev.txt
+└── requirements.txt
 ```
 
 ## 開発環境構築
-
 ### 1. 手順1
 ### 2. 手順2
 
