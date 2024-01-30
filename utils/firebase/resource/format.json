@@ -1,0 +1,27 @@
+{
+  "accessMessages": ["JR中央・総武線 飯田橋駅より徒歩1分 JR中央・総武線 水道橋駅より徒歩10分"],
+  "address": "東京都新宿区 下宮比町1-1相沢ビル3F",
+  "description1": "飯田橋東口より徒歩1分▼【インプラント・ホワイトニング・ボトックス】の歯の治療をおこなっています。患者様に寄り添った最適な医療をお届けできるよう、スタッフ一同親身になってご相談を承ります！",
+  "description2": "歯科医院でのみ使用できる過酸化水素に加え、スーパーポリリン酸配合により歯質を強化しながらホワイトニングができます。歯科衛生士がホワイトニング後のケアも指導♪",
+  "facilitiesMessages": ["個室２ パーテーション１台（＋１台予定） レントゲン・CT撮影室 マイクロスコープ エアフロー 歯科用ルーペ"],
+  "header1": "飯田橋◆インプラント・ホワイトニング・ボトックスの治療ならお任せください",
+  "header2": "歯科医院でのみ使用できる過酸化水素を使用。健康的な歯へ！",
+  "holidayMessages": [],
+  "images": [
+    {
+        "description": "再治療を最小限に抑える良質な治療から予防メインテナンスを徹底的に。患者様に最適な医療をご提供できるようスタッフ一同目指して参ります。",
+        "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/RefinodentalclinicSub2.png"
+    }
+  ],
+  "menus": [
+    {
+        "category": ["歯"],
+        "genre": ["クリニック"],
+        "imageUrl": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/squareMenuWhitening.png",
+        "imageUrlLarge": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/rectangleMenuWhitening.png",
+        "name": "Refino Dental Clinicホワイトニング（3回）",
+        "price": 33000,
+        "procedure": "1. 口内環境のチェック 2. カウンセリング 3. 歯の着色除去 4. マウスオープナーを装着し、唇を保湿剤で保護 5. 歯の表面にホワイトニング剤を塗布し、専用の光をあてる"
+    }
+  ] 
+}

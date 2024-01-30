@@ -23,5 +23,4 @@ def get_input_json(target_file):
 if __name__ == '__main__':
     
     input_json = get_input_json()
-
     post_fire_store('stores', input_json)
