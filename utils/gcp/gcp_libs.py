@@ -1,5 +1,4 @@
 # 参考URL：https://developers.google.com/sheets/api/quickstart/python?hl=ja
-
 import os.path
 
 #Google API認証関連
@@ -9,53 +8,43 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
-# 許容するスコープを指定
-SCOPES = ["https://www.googleapis.com/auth/spreadsheets.readonly"]
+#環境依存値読み込み
+from env.get_env import ENV_JSON
 
-# スプレッドシートID, シートIDをそれぞれ指定 (URLに記載あり)
-SPREADSHEET_ID = "1xeV-3eIPEJS8FMEvGNWzrQ1VywMwMjAofgb20hRYzjA"
-SHEET_ID = "Class Data!A2:E"
+def get_creds() -> Credentials:
+  """
+    Google OAuth2.0認証情報を取得する
+    
+    Parameters
+    ----------
 
-def get_cred():
+    Returns
+    -------
+    creds : Credentials
+        Google OAuth2.0認証情報
+  """
+
   creds = None
   # token.jsonファイルは、ユーザーのアクセストークンとリフレッシュトークンを保存し、
   # 認証フローが初めて完了した時に自動的に作成。
-  if os.path.exists("token.json"):
-    creds = Credentials.from_authorized_user_file("token.json", SCOPES)
+  if os.path.exists(ENV_JSON["TOKEN_JSON_PATH"]):
+    creds = Credentials.from_authorized_user_file("token.json", ENV_JSON["SCOPES"])
   # 有効な認証情報がない場合は、ユーザーにログインを実行させる。
   if not creds or not creds.valid:
     if creds and creds.expired and creds.refresh_token:
       creds.refresh(Request())
     else:
       flow = InstalledAppFlow.from_client_secrets_file(
-          "credentials.json", SCOPES
+          "credentials.json", ENV_JSON["SCOPES"]
       )
       creds = flow.run_local_server(port=0)
     
     # 次回実行時にtoken.jsonを用いるため、保存先を指定
-    with open("token.json", "w") as token:
+    with open(ENV_JSON["TOKEN_JSON_PATH"], "w") as token:
       token.write(creds.to_json())
 
-def main():
-  creds = None
-  # token.jsonファイルは、ユーザーのアクセストークンとリフレッシュトークンを保存し、
-  # 認証フローが初めて完了した時に自動的に作成。
-  if os.path.exists("token.json"):
-    creds = Credentials.from_authorized_user_file("token.json", SCOPES)
-  # 有効な認証情報がない場合は、ユーザーにログインを実行させる。
-  if not creds or not creds.valid:
-    if creds and creds.expired and creds.refresh_token:
-      creds.refresh(Request())
-    else:
-      flow = InstalledAppFlow.from_client_secrets_file(
-          "credentials.json", SCOPES
-      )
-      creds = flow.run_local_server(port=0)
-    
-    # 次回実行時にtoken.jsonを用いるため、保存先を指定
-    with open("token.json", "w") as token:
-      token.write(creds.to_json())
 
+def get_gss_values(creds):
   try:
     service = build("sheets", "v4", credentials=creds)
 
@@ -63,7 +52,7 @@ def main():
     sheet = service.spreadsheets()
     result = (
         sheet.values()
-        .get(spreadsheetId=SPREADSHEET_ID, range=RANGE_NAME)
+        .get(spreadsheetId=ENV_JSON["SPREADSHEET_ID"], range=ENV_JSON["RANGE_NAME"])
         .execute()
     )
     values = result.get("values", [])
@@ -85,16 +74,16 @@ if __name__ == "__main__":
 
 
 # サービスアカウントキーを使って認証
-SERVICE_ACCOUNT_FILE = '/workspace/extended-study-382401-8676076ee48a.json'
-credentials = service_account.Credentials.from_service_account_file(
-    SERVICE_ACCOUNT_FILE, scopes=SCOPES)
-# gspreadのクライアントとGoogle Drive APIクライアントを設定
-gc = gspread.authorize(credentials)
-# Google Sheets API clientを作成
-service = discovery.build('sheets', 'v4', credentials=credentials)
-# Google Drive API clientを作成
-drive_service = discovery.build('drive', 'v3', credentials=credentials)
-# Google DriveフォルダIDを指定
-folder_id = GOOGLE_DRIVE_FOLDER
-page_token = None
-items = []
+# SERVICE_ACCOUNT_FILE = '/workspace/extended-study-382401-8676076ee48a.json'
+# credentials = service_account.Credentials.from_service_account_file(
+#     SERVICE_ACCOUNT_FILE, scopes=SCOPES)
+# # gspreadのクライアントとGoogle Drive APIクライアントを設定
+# gc = gspread.authorize(credentials)
+# # Google Sheets API clientを作成
+# service = discovery.build('sheets', 'v4', credentials=credentials)
+# # Google Drive API clientを作成
+# drive_service = discovery.build('drive', 'v3', credentials=credentials)
+# # Google DriveフォルダIDを指定
+# folder_id = GOOGLE_DRIVE_FOLDER
+# page_token = None
+# items = []
