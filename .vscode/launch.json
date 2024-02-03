@@ -16,6 +16,19 @@
             },
             "console": "integratedTerminal",
             "justMyCode": true
+        },
+        {
+            "name": "Python: empowerme",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "args": ["empowerme"],
+            "env": {
+                "ENV_FIRST": "ENV1",
+                "ENV_LAST": "ENV2"
+            },
+            "console": "integratedTerminal",
+            "justMyCode": true
         }
     ]
 }

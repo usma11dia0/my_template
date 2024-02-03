@@ -45,7 +45,7 @@ def get_input_json(target_file):
         "openingHoursMessages": [""],
         "remarkMessages": [""],
         "staffInfoMessages": [""],
-        "staff": [
+        "staffs": [
             {
                 "imageUrl": "",
                 "message": "",
