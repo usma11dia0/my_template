@@ -1,0 +1,2218 @@
+[
+    {
+        "facilitiesMessages": [
+            "個室２\nパーテーション１台（＋１台予定）\nレントゲン・CT撮影室\nマイクロスコープ\nエアフロー\n歯科用ルーペ"
+        ],
+        "remarksMessages": [
+            ""
+        ],
+        "header2": "歯科医院でのみ使用できる過酸化水素を使用。健康的な歯へ！",
+        "tel": "03-3528-9909",
+        "type": "clinic",
+        "accessMessages": [
+            "JR中央・総武線 飯田橋駅より徒歩1分\nJR中央・総武線 水道橋駅より徒歩10分"
+        ],
+        "url": "https://refino-dc.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "再治療を最小限に抑える良質な治療から予防メインテナンスを徹底的に。患者様に最適な医療をご提供できるようスタッフ一同目指して参ります。",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/RefinodentalclinicSub2.png"
+            },
+            {
+                "description": "洗練された落ち着きのある空間で、最新の医学的知識や技術により質の高い歯科医療を提供いたします。",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/RefinodentalclinicSub3.png"
+            },
+            {
+                "description": "あなたの理想の姿、叶えたい姿をカウンセリングしながら治療方針を決めていきますので、ご安心いただけるよう努めてまいります。",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/RefinodentalclinicSub4.png"
+            },
+            {
+                "description": "歯科全体の3％しか導入していないマイクロスコープ使用",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/RefinodentalclinicSub1.png"
+            }
+        ],
+        "header1": "飯田橋◆インプラント・ホワイトニング・ボトックスの治療ならお任せください",
+        "name": "Refino Dental Clinic",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/RefinodentalclinicStaff1.png",
+                "message": "再治療を最小限に抑える良質な治療から徹底的な予防メインテナンスまでを1番大切にしています。個人に合ったオーダーメイド治療計画を立案し提供させていただきます。些細なことでもご相談ください。",
+                "position": "院長",
+                "name": "柿木辰巳（カキノキタツミ）"
+            }
+        ],
+        "station": "飯田橋駅\n水道橋駅",
+        "message": "Refino Dental Clinicは患者様にとって価値のある治療を提供し、主に【インプラント・ホワイトニング・ボトックス注射】で皆様の健康をお口の中から全身サポートさせていただきます。\n治療した歯の再発・再治療を最小限に抑え、患者様のお気持ちに寄り添ったサービスを提供できるよう日々努めております。",
+        "description1": "飯田橋東口より徒歩1分▼【インプラント・ホワイトニング・ボトックス】の歯の治療をおこなっています。患者様に寄り添った最適な医療をお届けできるよう、スタッフ一同親身になってご相談を承ります！",
+        "menus": [
+            {
+                "genre": [
+                    "クリニック"
+                ],
+                "imageUrl": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/squareMenuWhitening.png",
+                "tags": [
+                    "",
+                    "ホワイトニング"
+                ],
+                "recommendMessages": [
+                    "",
+                    "喫煙や食事で色素沈着した歯茎の黒ずみが気になる",
+                    "本質的な治療をしたい"
+                ],
+                "price": 33000,
+                "category": [
+                    "歯"
+                ],
+                "procedure": "1. 口内環境のチェック 2. カウンセリング 3. 歯の着色除去 4. マウスオープナーを装着し、唇を保湿剤で保護 5. 歯の表面にホワイトニング剤を塗布し、専用の光をあてる",
+                "topImageUrl": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/squareMenuWhitening.png",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/rectangleMenuWhitening.png",
+                "name": "Refino Dental Clinicホワイトニング（3回）"
+            }
+        ],
+        "address": "東京都新宿区\n下宮比町1-1相沢ビル3F",
+        "staffInfoMessages": [
+            ""
+        ],
+        "openingHoursMessages": [
+            "【月火・木金】10:00～14:00／",
+            "　　　　　　　15:00～18:30",
+            "【土】　　　　10:00～15:00",
+            "【水・日・祝】休診日　　"
+        ],
+        "description2": "歯科医院でのみ使用できる過酸化水素に加え、スーパーポリリン酸配合により歯質を強化しながらホワイトニングができます。歯科衛生士がホワイトニング後のケアも指導♪"
+    },
+    {
+        "facilitiesMessages": [
+            "総数2(リクライニングチェア2)"
+        ],
+        "remarksMessages": [
+            "マンション前にコインパーキングがございます。恐れ入りますが、満車の際はお近くの駐車場をご利用ください。"
+        ],
+        "header2": "強力な自社開発ジェルで効果的な施術",
+        "tel": "",
+        "type": "salon",
+        "accessMessages": [
+            "西鉄大橋駅 東口を出て右へ進みます。セブンイレブンさんを過ぎ交番前を直進。右側高架下にドミノピザさんが見えたら左に曲がります。すどうクリニックさんの入口手前を左に曲がりコインパーキングを抜けたマンション入り口です。※インスタに大橋駅からの道順を載せています。(インスタ：ecxia_white_ohashi) "
+        ],
+        "url": "https://ecxia-inc.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "私たちエクシアは日本一通いやすいホワイトニングサロンを目指しております。今後も全国各地に出店し、より多くのお客様に手軽にホワイトニングをご利用いただけるよう努めてまいります。",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/大橋店/EcxiaOhashiSalonSub2.png"
+            },
+            {
+                "description": "生活習慣や加齢などによるお悩みも解消できます。清潔感を保ち口臭ケアにも◎学校・仕事帰りに来店OK！",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/大橋店/EcxiaOhashiSalonSub3.png"
+            }
+        ],
+        "header1": "大橋徒歩4分◆メンズも大歓迎！お得なクーポンをご用意してお待ちしてます",
+        "description1": "強い光に自信のある自社高性能機材できらりと光る白い歯が手に入る！定額を払うほど時間が作れない方にも優しいセルフホワイトニングです。ペアでのご来店も大歓迎！",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/大橋店/EcxiaOhashiSalonStaff1.png",
+                "message": "笑顔でお待ちしております！",
+                "position": "",
+                "name": "スタッフ"
+            }
+        ],
+        "station": "西鉄大橋駅",
+        "message": "老若男女問わず髪型や服装と同じように、もっとホワイトニング習慣が広まってほしいと考えています。白い歯でいつも以上に素敵な笑顔に自信が持てるよう、誠心誠意サポートいたします。セルフホワイトニングが初めての方も気軽にお越しください！",
+        "menus": [
+            {
+                "genre": [
+                    "リフレッシュ",
+                    "サロン"
+                ],
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/大橋店/squareMenuEcxiaWhitening.png",
+                "tags": [
+                    "ホワイトニング"
+                ],
+                "recommendMessages": [
+                    "歯の黄ばみを改善したい",
+                    "歯を白くしたい",
+                    "痛くないホワイトニングがしたい"
+                ],
+                "category": [
+                    "歯"
+                ],
+                "price": 0,
+                "topImageUrl": "clinicMenu/BeautyBoardSalon/ecxia/大橋店/squareMenuEcxiaWhitening.png",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/ecxia/大橋店/rectangleMenuEcxiaWhitening.png",
+                "name": "ecxia大橋店ホワイトニング通い放題初回無料体験"
+            }
+        ],
+        "name": "ecxia大橋店",
+        "address": "福岡県福岡市南区大橋１丁目4-11  JSビル6A ",
+        "staffInfoMessages": [
+            "総数2人(スタッフ2人)"
+        ],
+        "openingHoursMessages": [
+            "10:00～20:00  (ご質問がございましたら、お気軽にご連絡ください。１人で営業している時は電話に出られないこともございますので、予めご了承ください。) ",
+            "不定休（月毎に異なります。）"
+        ],
+        "description2": "笑顔に自信が持てない、ホワイトニングは高い、痛いなどの悩みを一気に解決！見た目の清潔感だけでなく、口臭予防にも◎自社高性能機材でスピーディに輝く白い歯へ！"
+    },
+    {
+        "facilitiesMessages": [
+            "個室２\nパーテーション１台（＋１台予定）\nレントゲン・CT撮影室\nマイクロスコープ\nエアフロー\n歯科用ルーペ"
+        ],
+        "remarksMessages": [
+            ""
+        ],
+        "header2": "数分の注射で笑顔のお悩みから解放！",
+        "tel": "03-3528-9909",
+        "type": "clinic",
+        "accessMessages": [
+            "JR中央・総武線 飯田橋駅より徒歩1分\nJR中央・総武線 水道橋駅より徒歩10分"
+        ],
+        "url": "https://refino-dc.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "再治療を最小限に抑える良質な治療から予防メインテナンスを徹底的に。患者様に最適な医療をご提供できるようスタッフ一同目指して参ります。",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ガミーボトックス/RefinodentalclinicSub2.png"
+            },
+            {
+                "description": "洗練された落ち着きのある空間で、最新の医学的知識や技術により質の高い歯科医療を提供いたします。",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ガミーボトックス/RefinodentalclinicSub3.png"
+            },
+            {
+                "description": "あなたの理想の姿、叶えたい姿をカウンセリングしながら治療方針を決めていきますので、ご安心いただけるよう努めてまいります。",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ガミーボトックス/RefinodentalclinicSub4.png"
+            },
+            {
+                "description": "歯科全体の3％しか導入していないマイクロスコープ使用",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ガミーボトックス/RefinodentalclinicSub1.png"
+            }
+        ],
+        "header1": "飯田橋◆インプラント・ホワイトニング・ボトックスの治療ならお任せください",
+        "name": "Refino Dental Clinic",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ガミーボトックス/RefinodentalclinicStaff1.png",
+                "message": "再治療を最小限に抑える良質な治療から徹底的な予防メインテナンスまでを1番大切にしています。個人に合ったオーダーメイド治療計画を立案し提供させていただきます。些細なことでもご相談ください。",
+                "position": "院長",
+                "name": "柿木辰巳（カキノキタツミ）"
+            }
+        ],
+        "station": "飯田橋駅\n水道橋駅",
+        "message": "Refino Dental Clinicは患者様にとって価値のある治療を提供し、主に【インプラント・ホワイトニング・ボトックス注射】で皆様の健康をお口の中から全身サポートさせていただきます。\n治療した歯の再発・再治療を最小限に抑え、患者様のお気持ちに寄り添ったサービスを提供できるよう日々努めております。",
+        "description1": "飯田橋東口より徒歩1分「Refino Dental Clinic」です。【インプラント・ホワイトニング・ボトックス】の歯の治療をおこなっております。患者様に寄り添った最適な医療をお届けできるようスタッフ一同、親身になってご相談を承りますので、お気軽にお問い合わせ下さい。",
+        "menus": [
+            {
+                "genre": [
+                    "クリニック"
+                ],
+                "imageUrl": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ガミーボトックス/squareMenuGummybotox.png",
+                "tags": [
+                    "ボトックス注射",
+                    "ガミースマイル"
+                ],
+                "recommendMessages": [
+                    "ガミースマイルを治したい方"
+                ],
+                "price": 22000,
+                "category": [
+                    "歯",
+                    "口元"
+                ],
+                "procedure": "口元に数箇所注射をします。 全体で10分〜30分ほどで終了します。",
+                "topImageUrl": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/インプラント相談/RefinodentalclinicSub4.pngclinicMenu/BeautyBoardSalon/Refino Dental Clinic/ガミーボトックス/squareMenuGummybotox.png",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ガミーボトックス/rectangleMenuGummybotox.png",
+                "name": "Refino Dental Clinicガミーボトックス"
+            }
+        ],
+        "address": "東京都新宿区下宮比町1-1相沢ビル3F",
+        "staffInfoMessages": [
+            ""
+        ],
+        "openingHoursMessages": [
+            "【月火・木金】10:00～14:00／",
+            "　　　　　　　15:00～18:30",
+            "【土】　　　　10:00～15:00",
+            "【水・日・祝】休診日　　"
+        ],
+        "description2": "口元にボトックスを注射することにより筋肉の緊張を緩め、ガミースマイルを解消します。人前でも思いっきり素敵な笑顔でお話しできるようになりましょう！"
+    },
+    {
+        "facilitiesMessages": [
+            ""
+        ],
+        "remarksMessages": [
+            "ご予約の当日キャンセルは、キャンセル料金が発生致しますのでお早めのご連絡をお願いします。"
+        ],
+        "header2": "強力な自社開発ジェルで効果的な施術",
+        "tel": "",
+        "type": "salon",
+        "accessMessages": [
+            "地下鉄東山線・名古屋駅1番出口を出ていただき、右方向に向かってください。1階に薬局、補聴器の店舗が入っているビルが当店です。"
+        ],
+        "url": "https://ecxia-inc.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "私たちエクシアは日本一通いやすいホワイトニングサロンを目指しております。今後も全国各地に出店し、より多くのお客様に手軽にホワイトニングをご利用いただけるよう努めてまいります。",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/名古屋名駅店/EcxiaNagoyaSalonSub2.png"
+            },
+            {
+                "description": "生活習慣や加齢などによるお悩みも解消できます。清潔感を保ち口臭ケアにも◎学校・仕事帰りに来店OK！",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/名古屋名駅店/EcxiaNagoyaSalonSub3.png"
+            },
+            {
+                "description": "歯科業界でも注目されているポリリン酸という強力な美白成分を高配合することで、他のサロンの溶剤と比較して圧倒的に粘度が高く、一回の施術でも効果をはっきりと感じられる溶剤を使用しています。",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/名古屋名駅店/EcxiaNagoyaSalonSub4.png"
+            }
+        ],
+        "header1": "名古屋駅6分◆全国に100店舗あり。強力3色LEDライトでコスパ&効果抜群のセルフホワイトニング♪",
+        "description1": "近鉄/名鉄名古屋駅6分の好立地▼月々回数制限なし！月4回で1回2500円の高コスパ◎▼意外と見られている口元。歯の黄ばみ・自然な白さを目指したい方におすすめ♪▼歯に優しい&ホワイトニング力の強い美容成分&スピーディな最新機器を使用▼メンズにも大人気♪",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/名古屋名駅店/EcxiaNagoyaSalonStaff1.png",
+                "message": "名古屋名駅でリーズナブルに通えるセルフホワイトニングをお探しの方におすすめ！エクシア ホワイトニングに任せれば安く理想の白い歯を維持することができます★",
+                "position": "店長",
+                "name": "FUKA"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/名古屋名駅店/EcxiaNagoyaSalonStaff2.png",
+                "message": "ホワイトニングで白い歯をご提供いたします！",
+                "position": "スタッフ",
+                "name": "MOMOKA"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/名古屋名駅店/EcxiaNagoyaSalonStaff3.png",
+                "message": "ホワイトニング初心者でも安心できるようにサポートいたします。",
+                "position": "スタッフ",
+                "name": "YUI"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/名古屋名駅店/EcxiaNagoyaSalonStaff4.png",
+                "message": "一緒に白い歯を目指しましょう！",
+                "position": "スタッフ",
+                "name": "YUZUKA"
+            }
+        ],
+        "station": "名古屋駅",
+        "message": "ホワイトニングが初めての方でもスタッフが丁寧にご説明します！学割もありますので、ぜひ学校帰りにもお越しください。",
+        "menus": [
+            {
+                "genre": [
+                    "リフレッシュ",
+                    "サロン"
+                ],
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/名古屋名駅店/squareMenuEcxiaWhitening.png",
+                "tags": [
+                    "ホワイトニング"
+                ],
+                "recommendMessages": [
+                    "歯の黄ばみを改善したい",
+                    "歯を白くしたい",
+                    "痛くないホワイトニングがしたい"
+                ],
+                "category": [
+                    "歯"
+                ],
+                "price": 0,
+                "topImageUrl": "clinicMenu/BeautyBoardSalon/ecxia/名古屋名駅店/squareMenuEcxiaWhitening.png",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/ecxia/名古屋名駅店/rectangleMenuEcxiaWhitening.png",
+                "name": "ecxia名古屋名駅店ホワイトニング通い放題初回無料体験"
+            }
+        ],
+        "name": "ecxia名古屋名駅店",
+        "address": "愛知県名古屋市中村区名駅2-45-10 川島ビル5Ｆ",
+        "staffInfoMessages": [
+            "4名"
+        ],
+        "openingHoursMessages": [
+            "10:00～20:30(最終受付：19:00)  ",
+            "不定休"
+        ],
+        "description2": "業界でも注目の強力な美容成分配合！思い立ったらフラッと手ぶらでご来店ください。歯の黄ばみ解消・清潔感を保ち口臭ケアにも◎"
+    },
+    {
+        "facilitiesMessages": [
+            ""
+        ],
+        "remarksMessages": [
+            "エンパワーミー限定の初回無料体験メニューです。歯の色をチャームポイントにしたい方、営業の方にもオススメです。"
+        ],
+        "header2": "強力な自社開発ジェルで効果的な施術",
+        "tel": "",
+        "type": "salon",
+        "accessMessages": [
+            "通町筋駅から徒歩１分です。"
+        ],
+        "url": "https://ecxia-inc.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "私たちエクシアは日本一通いやすいホワイトニングサロンを目指しております。今後も全国各地に出店し、より多くのお客様に手軽にホワイトニングをご利用いただけるよう努めてまいります。",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/熊本下通店/EcxiaKumamotoSalonSub2.png"
+            },
+            {
+                "description": "生活習慣や加齢などによるお悩みも解消できます。清潔感を保ち口臭ケアにも◎学校・仕事帰りに来店OK！",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/熊本下通店/EcxiaKumamotoSalonSub3.png"
+            },
+            {
+                "description": "歯科業界でも注目されているポリリン酸という強力な美白成分を高配合することで、他のサロンの溶剤と比較して圧倒的に粘度が高く、一回の施術でも効果をはっきりと感じられる溶剤を使用しています。",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/熊本下通店/EcxiaKumamotoSalonSub4.png"
+            }
+        ],
+        "header1": "通町筋駅4分◆効果実感!ホワイトニングデビューにおすすめのセルフホワイトニング",
+        "description1": "通町筋駅4分の好立地▼通い放題で回数無制限で通えるコスパ抜群のセルフホワイトニングです。歯の黄ばみ・着色が気になる・自然な白さを目指したい方に♪強力な美容成分＆スピーディな最新機器を使用しています。",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/熊本下通店/EcxiaKumamotoSalonStaff1.png",
+                "message": "笑顔でお待ちしております！",
+                "position": "",
+                "name": "スタッフ"
+            }
+        ],
+        "station": "通町筋駅",
+        "message": "エクシア ホワイトニングに任せれば安く理想の白い歯を叶え・維持することができます！熊本で人気のセルフホワイトニングです。通町筋駅3分でお出かけ前や通学・仕事終わりなどにも通いやすいので、ぜひ一度お越しください！",
+        "menus": [
+            {
+                "genre": [
+                    "リフレッシュ",
+                    "サロン"
+                ],
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/熊本下通店/squareMenuEcxiaWhitening.png",
+                "tags": [
+                    "ホワイトニング"
+                ],
+                "recommendMessages": [
+                    "歯の黄ばみを改善したい",
+                    "歯を白くしたい",
+                    "痛くないホワイトニングがしたい"
+                ],
+                "category": [
+                    "歯"
+                ],
+                "price": 0,
+                "topImageUrl": "clinicMenu/BeautyBoardSalon/ecxia/熊本下通店/squareMenuEcxiaWhitening.png",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/ecxia/熊本下通店/rectangleMenuEcxiaWhitening.png",
+                "name": "ecxia熊本下通店ホワイトニング通い放題初回無料体験"
+            }
+        ],
+        "name": "ecxia熊本下通店",
+        "address": "熊本県熊本市中央区下通1-8-11",
+        "staffInfoMessages": [
+            ""
+        ],
+        "openingHoursMessages": [
+            "お問い合わせください。",
+            "不定休"
+        ],
+        "description2": "業界注目の強力な自社開発ジェルの美白美容成分使用で効果抜群です。通い放題のお得なプランもご用意しています。理想の白く美しい歯をキープしましょう！"
+    },
+    {
+        "facilitiesMessages": [
+            "個室２\nパーテーション１台（＋１台予定）\nレントゲン・CT撮影室\nマイクロスコープ\nエアフロー\n歯科用ルーペ"
+        ],
+        "remarksMessages": [
+            ""
+        ],
+        "header2": "切らずに小顔になれるボトックス",
+        "tel": "03-3528-9909",
+        "type": "clinic",
+        "accessMessages": [
+            "JR中央・総武線 飯田橋駅より徒歩1分\nJR中央・総武線 水道橋駅より徒歩10分"
+        ],
+        "url": "https://refino-dc.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "再治療を最小限に抑える良質な治療から予防メインテナンスを徹底的に。患者様に最適な医療をご提供できるようスタッフ一同目指して参ります。",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/咬筋ボトックス/RefinodentalclinicSub2.png"
+            },
+            {
+                "description": "洗練された落ち着きのある空間で、最新の医学的知識や技術により質の高い歯科医療を提供いたします。",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/咬筋ボトックス/RefinodentalclinicSub3.png"
+            },
+            {
+                "description": "あなたの理想の姿、叶えたい姿をカウンセリングしながら治療方針を決めていきますので、ご安心いただけるよう努めてまいります。",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/咬筋ボトックス/RefinodentalclinicSub4.png"
+            },
+            {
+                "description": "歯科全体の3％しか導入していないマイクロスコープ使用",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/咬筋ボトックス/RefinodentalclinicSub1.png"
+            }
+        ],
+        "header1": "飯田橋◆インプラント・ホワイトニング・ボトックスの治療ならお任せください",
+        "name": "Refino Dental Clinic",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/咬筋ボトックス/RefinodentalclinicStaff1.png",
+                "message": "再治療を最小限に抑える良質な治療から徹底的な予防メインテナンスまでを1番大切にしています。個人に合ったオーダーメイド治療計画を立案し提供させていただきます。些細なことでもご相談ください。",
+                "position": "院長",
+                "name": "柿木辰巳（カキノキタツミ）"
+            }
+        ],
+        "station": "飯田橋駅\n水道橋駅",
+        "message": "Refino Dental Clinicは患者様にとって価値のある治療を提供し、主に【インプラント・ホワイトニング・ボトックス注射】で皆様の健康をお口の中から全身サポートさせていただきます。\n治療した歯の再発・再治療を最小限に抑え、患者様のお気持ちに寄り添ったサービスを提供できるよう日々努めております。",
+        "description1": "飯田橋東口より徒歩1分「Refino Dental Clinic」です。【インプラント・ホワイトニング・ボトックス】の歯の治療をおこなっております。患者様に寄り添った最適な医療をお届けできるようスタッフ一同、親身になってご相談を承りますので、お気軽にお問い合わせ下さい。",
+        "menus": [
+            {
+                "name": "Refino Dental Clinic咬筋ボトックス",
+                "imageUrl": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/咬筋ボトックス/squareMenuMasseterbotox.png",
+                "tags": [
+                    "ボトックス注射",
+                    "エラ張り",
+                    "歯ぎしり",
+                    "顎関節症",
+                    "小顔"
+                ],
+                "recommendMessages": [
+                    "歯ぎしりや食いしばりに悩んでいる方",
+                    "顎関節症の方",
+                    "エラ張りが気になる方",
+                    "小顔になりたい方"
+                ],
+                "price": 44000,
+                "category": [
+                    "歯",
+                    "口元"
+                ],
+                "procedure": "1. 注入箇所を確認していただきながらデザインする 2. 注入箇所をクーリング(冷却)する 3. 咬筋(こうきん)にボトックスを注入していく 4. 反対側の咬筋にも注入していく",
+                "topImageUrl": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/咬筋ボトックス/squareMenuMasseterbotox.png",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/咬筋ボトックス/rectangleMenuMasseterbotox.png",
+                "genre": [
+                    "クリニック"
+                ]
+            }
+        ],
+        "address": "東京都新宿区下宮比町1-1相沢ビル3F",
+        "staffInfoMessages": [
+            ""
+        ],
+        "openingHoursMessages": [
+            "【月火・木金】10:00～14:00／",
+            "　　　　　　　15:00～18:30",
+            "【土】　　　　10:00～15:00",
+            "【水・日・祝】休診日　　"
+        ],
+        "description2": "ボツリヌス・トキシン（タンパク質の一種）を注入することで筋肉の緊張をほぐし、小顔へと導きます。顔のシワ治療やエラ張り治療に効果が期待できる治療です。"
+    },
+    {
+        "facilitiesMessages": [
+            "総数4、セルフ脱毛、O2セラピー"
+        ],
+        "remarksMessages": [
+            "エンパワーミー限定の初回無料体験メニューです。歯の色をチャームポイントにしたい方、営業の方にもオススメです。"
+        ],
+        "header2": "初めての方にオススメのホワイトニングサロン",
+        "tel": "03-6804-2309",
+        "type": "salon",
+        "accessMessages": [
+            "明治神宮前駅 5番出口より徒歩5分"
+        ],
+        "url": "https://ecxia-inc.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "私たちエクシアは日本一通いやすいホワイトニングサロンを目指しております。今後も全国各地に出店し、より多くのお客様に手軽にホワイトニングをご利用いただけるよう努めてまいります。",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/EcxiaSalonSub2.png"
+            },
+            {
+                "description": "【美白成分配合】脱マスク応援★セルフホワイトニングが初めての方もお気軽にご来店下さい♪輝く白さをGET!",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/EcxiaSalonSub3.png"
+            },
+            {
+                "description": "ホワイトニングと歯磨きの知識と経験豊富なスタッフにいつでも気軽に相談できます♪店長はシェードガイドでもMAXの白さの持ち主です☆",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/EcxiaSalonSub4.png"
+            }
+        ],
+        "header1": "原宿駅徒歩5分◆効果&コスパ最高◆強力3色LEDライトでホワイトニングデビュー♪",
+        "description1": "原宿駅徒歩5分の好立地◎口元の笑顔に自信を★デンタルビューティは当店で！沁みなくて安い回数制限なしのコスパ抜群☆仕事・サロン帰りに気軽に通える▼歯の黄ばみが気になる・自然な白さを目指したい方に♪強力な美容成分&スピーディで強力効果の最新3色LED照射ライト使用▼全国100店舗展開中♪",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/EcxiaSalonStaff1.jpg",
+                "message": "温かく優しくアットホームな雰囲気で、皆様をお待ちしております。綺麗な歯で自信をアップさせましょう♪",
+                "position": "AYANO店長",
+                "name": "AYANO"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/EcxiaSalonStaff2.jpg",
+                "message": "ホワイトニングによって皆さまが素敵な笑顔になれるよう応援しています！",
+                "position": "スタッフ",
+                "name": "マルちゃん"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/EcxiaSalonStaff3.png",
+                "message": "ホワイトニングがはじめての方も、ぜひ一度体験しに来てみてください！",
+                "position": "スタッフ",
+                "name": "クマちゃん"
+            }
+        ],
+        "station": "JR山手線 原宿駅",
+        "message": "店長自身もシェードガイドで最も白いS2の白さをキープしています。ホワイトニングのお悩み以外にも、脱毛やストレスのお悩みなども、お気軽にご相談ください。セルフ脱毛、酸素カプセルの設備もございます。ご予約とご来店をお待ちしています。",
+        "menus": [
+            {
+                "genre": [
+                    "リフレッシュ",
+                    "サロン"
+                ],
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/squareMenuEcxiaWhitening.png",
+                "tags": [
+                    "ホワイトニング"
+                ],
+                "recommendMessages": [
+                    "歯の黄ばみを改善したい",
+                    "歯を白くしたい",
+                    "痛くないホワイトニングがしたい"
+                ],
+                "category": [
+                    "歯"
+                ],
+                "price": 0,
+                "topImageUrl": "clinicMenu/BeautyBoardSalon/ecxia/squareMenuEcxiaWhitening.png",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/ecxia/rectangleMenuEcxiaWhitening.png",
+                "name": "ecxia原宿店ホワイトニング通い放題初回無料体験"
+            }
+        ],
+        "name": "ecxia原宿店",
+        "address": "東京都渋谷区神宮前一丁目8-8 COXY188ビル8階",
+        "staffInfoMessages": [
+            "総勢4名"
+        ],
+        "openingHoursMessages": [
+            "[通年]",
+            "10:00～20:00",
+            "[定休日]",
+            "不定休"
+        ],
+        "description2": "SNSで話題のエクシア★歯を白くトーンUPし笑顔が一層引き立つ♪歯の黄ばみが気になる方大歓迎◎セルフホワイトニングで白い歯と口元美人を目指しましょう♪初めての方でもスタッフが丁寧にご説明します!エンパワーミー特別割引もあり◎"
+    },
+    {
+        "facilitiesMessages": [
+            "個室２\nパーテーション１台（＋１台予定）\nレントゲン・CT撮影室\nマイクロスコープ\nエアフロー\n歯科用ルーペ"
+        ],
+        "remarksMessages": [
+            ""
+        ],
+        "header2": "歯科医院でのみ使用できる過酸化水素を使用。健康的な歯へ！",
+        "tel": "03-3528-9909",
+        "type": "clinic",
+        "accessMessages": [
+            "JR中央・総武線 飯田橋駅より徒歩1分\nJR中央・総武線 水道橋駅より徒歩10分"
+        ],
+        "url": "https://refino-dc.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "再治療を最小限に抑える良質な治療から予防メインテナンスを徹底的に。患者様に最適な医療をご提供できるようスタッフ一同目指して参ります。",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/RefinodentalclinicSub2.png"
+            },
+            {
+                "description": "洗練された落ち着きのある空間で、最新の医学的知識や技術により質の高い歯科医療を提供いたします。",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/RefinodentalclinicSub3.png"
+            },
+            {
+                "description": "あなたの理想の姿、叶えたい姿をカウンセリングしながら治療方針を決めていきますので、ご安心いただけるよう努めてまいります。",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/RefinodentalclinicSub4.png"
+            },
+            {
+                "description": "歯科全体の3％しか導入していないマイクロスコープ使用",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/RefinodentalclinicSub1.png"
+            }
+        ],
+        "header1": "飯田橋◆インプラント・ホワイトニング・ボトックスの治療ならお任せください",
+        "name": "Refino Dental Clinic",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/RefinodentalclinicStaff1.png",
+                "message": "再治療を最小限に抑える良質な治療から徹底的な予防メインテナンスまでを1番大切にしています。個人に合ったオーダーメイド治療計画を立案し提供させていただきます。些細なことでもご相談ください。",
+                "position": "院長",
+                "name": "柿木辰巳（カキノキタツミ）"
+            }
+        ],
+        "station": "飯田橋駅\n水道橋駅",
+        "message": "Refino Dental Clinicは患者様にとって価値のある治療を提供し、主に【インプラント・ホワイトニング・ボトックス注射】で皆様の健康をお口の中から全身サポートさせていただきます。\n治療した歯の再発・再治療を最小限に抑え、患者様のお気持ちに寄り添ったサービスを提供できるよう日々努めております。",
+        "description1": "飯田橋東口より徒歩1分▼【インプラント・ホワイトニング・ボトックス】の歯の治療をおこなっています。患者様に寄り添った最適な医療をお届けできるよう、スタッフ一同親身になってご相談を承ります！",
+        "menus": [
+            {
+                "name": "Refino Dental Clinicホワイトニング（毎月1回）",
+                "imageUrl": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/squareMenuWhitening.png",
+                "tags": [
+                    "",
+                    "ホワイトニング"
+                ],
+                "recommendMessages": [
+                    "",
+                    "喫煙や食事で色素沈着した歯茎の黒ずみが気になる",
+                    "本質的な治療をしたい"
+                ],
+                "price": 11000,
+                "category": [
+                    "歯"
+                ],
+                "procedure": "1. 口内環境のチェック 2. カウンセリング 3. 歯の着色除去 4. マウスオープナーを装着し、唇を保湿剤で保護 5. 歯の表面にホワイトニング剤を塗布し、専用の光をあてる",
+                "topImageUrl": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/squareMenuWhitening.png",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/rectangleMenuWhitening.png",
+                "genre": [
+                    "クリニック"
+                ]
+            }
+        ],
+        "address": "東京都新宿区\n下宮比町1-1相沢ビル3F",
+        "staffInfoMessages": [
+            ""
+        ],
+        "openingHoursMessages": [
+            "【月火・木金】10:00～14:00／",
+            "　　　　　　　15:00～18:30",
+            "【土】　　　　10:00～15:00",
+            "【水・日・祝】休診日　　"
+        ],
+        "description2": "歯科医院でのみ使用できる過酸化水素に加え、スーパーポリリン酸配合により歯質を強化しながらホワイトニングができます。歯科衛生士がホワイトニング後のケアも指導♪"
+    },
+    {
+        "facilitiesMessages": [
+            ""
+        ],
+        "remarksMessages": [
+            "エンパワーミー限定の初回無料体験メニューです。歯の色をチャームポイントにしたい方、営業の方にもオススメです。"
+        ],
+        "header2": "強力な自社開発ジェルで効果的な施術",
+        "tel": "",
+        "type": "salon",
+        "accessMessages": [
+            "青葉通一番町駅から徒歩１分です。"
+        ],
+        "url": "https://ecxia-inc.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "私たちエクシアは日本一通いやすいホワイトニングサロンを目指しております。今後も全国各地に出店し、より多くのお客様に手軽にホワイトニングをご利用いただけるよう努めてまいります。",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/仙台一番町店/EcxiaSendaiSalonSub2.png"
+            },
+            {
+                "description": "生活習慣や加齢などによるお悩みも解消できます。清潔感を保ち口臭ケアにも◎学校・仕事帰りに来店OK！",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/仙台一番町店/EcxiaSendaiSalonSub3.png"
+            },
+            {
+                "description": "歯科業界でも注目されているポリリン酸という強力な美白成分を高配合することで、他のサロンの溶剤と比較して圧倒的に粘度が高く、一回の施術でも効果をはっきりと感じられる溶剤を使用しています。",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/仙台一番町店/EcxiaSendaiSalonSub4.png"
+            }
+        ],
+        "header1": "NEW OPEN◆効果実感！ホワイトニングデビューにおすすめのセルフホワイトニング",
+        "description1": "仙台駅徒歩10分▼コスパ抜群のセルフホワイトニングロンです。通い放題で回数無制限で通える！歯の黄ばみ・着色が気になる・自然な白さを目指したい方におすすめ♪",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/仙台一番町店/EcxiaSendaiSalonStaff1.png",
+                "message": "一緒に白い歯を目指しましょう！はじめての方もご来店お待ちしております。",
+                "position": "スタッフ",
+                "name": "REI"
+            }
+        ],
+        "station": "青葉通一番町駅",
+        "message": "仙台青葉通一番町でリーズナブルに通えるセルフホワイトニングをお探しの方におすすめ！エクシア ホワイトニングに任せれば理想の白い歯を叶え・維持することができます。ご来店お待ちしております！",
+        "menus": [
+            {
+                "genre": [
+                    "リフレッシュ",
+                    "サロン"
+                ],
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/仙台一番町店/squareMenuEcxiaWhitening.png",
+                "tags": [
+                    "ホワイトニング"
+                ],
+                "recommendMessages": [
+                    "歯の黄ばみを改善したい",
+                    "歯を白くしたい",
+                    "痛くないホワイトニングがしたい"
+                ],
+                "category": [
+                    "歯"
+                ],
+                "price": 0,
+                "topImageUrl": "clinicMenu/BeautyBoardSalon/ecxia/仙台一番町店/squareMenuEcxiaWhitening.png",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/ecxia/仙台一番町店/rectangleMenuEcxiaWhitening.png",
+                "name": "ecxia仙台一番町店ホワイトニング通い放題初回無料体験"
+            }
+        ],
+        "name": "ecxia仙台一番町店",
+        "address": "宮城県仙台市青葉区一番町2-5-1 2Ｆ",
+        "staffInfoMessages": [
+            ""
+        ],
+        "openingHoursMessages": [
+            "お問い合わせください。",
+            "不定休"
+        ],
+        "description2": "強力な美容成分×最新機器のコスパ最強セルフホワイトニング♪スピード施術だから隙間時間に通いやすい。気になる歯の黄ばみも改善してコンプレックス解消！白く輝く歯に♪まずは試して効果を実感してください！"
+    },
+    {
+        "facilitiesMessages": [
+            "総数3 "
+        ],
+        "remarksMessages": [
+            "エンパワーミー限定の初回無料体験メニューです。歯の色をチャームポイントにしたい方、営業の方にもオススメです。"
+        ],
+        "header2": "強力な自社開発ジェルで効果的な施術",
+        "tel": "",
+        "type": "salon",
+        "accessMessages": [
+            "すすきの駅地下街ポールタウン出口を出て、商業施設『札幌ナナイロビル』を目指して進みます。こちらの4階が当店です。"
+        ],
+        "url": "https://ecxia-inc.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "私たちエクシアは日本一通いやすいホワイトニングサロンを目指しております。今後も全国各地に出店し、より多くのお客様に手軽にホワイトニングをご利用いただけるよう努めてまいります。",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/札幌大通店/EcxiaSapporoSalonSub2.png"
+            },
+            {
+                "description": "生活習慣や加齢などによるお悩みも解消できます。清潔感を保ち口臭ケアにも◎学校・仕事帰りに来店OK！",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/札幌大通店/EcxiaSapporoSalonSub3.png"
+            }
+        ],
+        "header1": "大通駅3分◆全国100店舗展開！強力3色LEDライト使用でコスパ&効果抜群のセルフホワイトニング♪",
+        "description1": "大通駅/すすきの駅3分▼大人女性の身だしなみ♪業界初・ホワイトニング通い放題！蓄積された汚れはお得なコースで綺麗な白い歯へ。歯の黄ばみが気になる・自然な白さを目指したい方、メンズや初めての方にもおすすめ！",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/札幌大通店/EcxiaSapporoSalonStaff1.png",
+                "message": "笑顔でお待ちしております！",
+                "position": "",
+                "name": "スタッフ"
+            }
+        ],
+        "station": "すすきの駅",
+        "message": "業界注目の強力な自社開発ジェルの美白美容成分がホワイトニング効果あり。清潔感溢れるキレイな白い歯で笑顔に自信を持ちましょう！通い放題のお得なプランもご用意しています。ぜひ一度お越しください♪",
+        "menus": [
+            {
+                "genre": [
+                    "リフレッシュ",
+                    "サロン"
+                ],
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/札幌大通店/squareMenuEcxiaWhitening.png",
+                "tags": [
+                    "ホワイトニング"
+                ],
+                "recommendMessages": [
+                    "歯の黄ばみを改善したい",
+                    "歯を白くしたい",
+                    "痛くないホワイトニングがしたい"
+                ],
+                "category": [
+                    "歯"
+                ],
+                "price": 0,
+                "topImageUrl": "clinicMenu/BeautyBoardSalon/ecxia/札幌大通店/squareMenuEcxiaWhitening.png",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/ecxia/札幌大通店/rectangleMenuEcxiaWhitening.png",
+                "name": "ecxia札幌大通店ホワイトニング通い放題初回無料体験"
+            }
+        ],
+        "name": "ecxia札幌大通店",
+        "address": "北海道札幌市中央区南2条西4丁目1番地 札幌ナナイロビル4Ｆ",
+        "staffInfoMessages": [
+            "2名"
+        ],
+        "openingHoursMessages": [
+            "10:00～20:30(最終受付：19:00)  ",
+            "不定休"
+        ],
+        "description2": "業界注目の強力な自社開発ジェルの美白美容成分使用で効果抜群！清潔感溢れるキレイな白い歯で笑顔に自信を。通い放題のお得なプランもご用意しています。理想の白く美しい歯をキープ！"
+    },
+    {
+        "facilitiesMessages": [
+            ""
+        ],
+        "remarksMessages": [
+            "当院は、訪問診療を主としておりますので、外来診療は完全予約制となっております。"
+        ],
+        "header2": "アンチエイジング効果抜群！代謝向上や健康維持に効果的",
+        "tel": "06-6625-8297",
+        "type": "clinic",
+        "accessMessages": [
+            "天王寺駅から徒歩5分"
+        ],
+        "url": "https://mitsubachi-clinic.com/nmn/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "NMN（ニコチンアミドモノヌクレオチド）は、人やあらゆる生物の細胞に存在する物質です。人は加齢とともにNMNを体内での生産量が低下することで、身体機能や認知機能の老化が進むとされています。",
+                "path": "clinicMenu/BeautyBoardSalon/みつばち大阪クリニック/MitsubachiosakaclinicSub2.png"
+            },
+            {
+                "description": "SO9001とGMP認定を取得した国内工場にて管理製造された安心安全の国産NMN原料を使用。純度99.9%を実現させ、その製造過程でわずかに残る0.1%の物質も身体にとって安全な成分です。",
+                "path": "clinicMenu/BeautyBoardSalon/みつばち大阪クリニック/MitsubachiosakaclinicSub1.png"
+            }
+        ],
+        "header1": "目の前の患者さん一人一人に真剣に向き合う医療を。",
+        "name": "みつばち大阪クリニック",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/みつばち大阪クリニック/MitsubachiosakaclinicStaff1.png",
+                "message": "患者様との情報共有を大切に、信頼いただけるクリニックを目指しております。些細なことでもまずはご相談ください。",
+                "position": "院長",
+                "name": "橋本 惠"
+            }
+        ],
+        "description1": "訪問診療・往診を主としたクリニック。患者様が住み慣れたご自宅や施設で安心して療養生活を続けていただけるよう、訪問診療、ヘルパー、ケアマネージャーなどとの連携、日々の生活での問題や病状の変化についての情報共有を大切にして信頼をいただける地域のクリニックを目指しております。",
+        "menus": [
+            {
+                "name": " みつばち大阪クリニック NMN点滴",
+                "imageUrl": "clinicMenu/BeautyBoardSalon/みつばち大阪クリニック/squareMenuNMN.png",
+                "tags": [
+                    "NMN",
+                    "アンチエイジング"
+                ],
+                "recommendMessages": [
+                    "エイジングケアをしたい",
+                    "体力を向上させたい"
+                ],
+                "category": [
+                    "肌"
+                ],
+                "price": 50000,
+                "topImageUrl": "clinicMenu/BeautyBoardSalon/みつばち大阪クリニック/squareMenuNMN.png",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/みつばち大阪クリニック/rectangleMenuNMN.png",
+                "genre": [
+                    "クリニック"
+                ]
+            }
+        ],
+        "message": "『みつばちクリニック』という名前には、「医療者としての当然の責務に加え、患者様やご家族から汲み取った思いやご希望を今後の日本において実現できるよう、社会に大きく働きかけることのできる医療機関になりたい」という願いが込められています。",
+        "station": "天王寺駅",
+        "address": "大阪府大阪市阿倍野区旭町1-1-9ヨドノビル401",
+        "staffInfoMessages": [
+            ""
+        ],
+        "openingHoursMessages": [
+            "【月火水木金】9:00～17:30",
+            "【土・日・祝】休診日"
+        ],
+        "description2": "加齢とともに減少する「NMN（ニコチンアミドモノヌクレオチド）」を体内に補うことによって、人間の老化や寿命を司るサーチュイン遺伝子を活性化させます。老化による身体機能の低下を遅らせることができます。"
+    },
+    {
+        "facilitiesMessages": [
+            "-"
+        ],
+        "remarksMessages": [
+            "継続的なAGA治療が難しい方や、おしゃれを楽しみたい方にもオススメです。"
+        ],
+        "header2": "",
+        "tel": "-",
+        "type": "clinic",
+        "accessMessages": [
+            "-"
+        ],
+        "url": "-",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "毛量が多すぎると頭が大きく重たい印象になり、反対に少なすぎると縫い目が見えて貧相な印象になってしまいます。 馴染みのよい毛量でより自然に見えるウィッグをお取り扱いしています。",
+                "path": "clinicMenu/BeautyBoardSalon/医療用ウィッグ/MedicalWigSub2.png"
+            },
+            {
+                "description": "３６０度に伸びる柔らかく薄いネットは、頭を締め付けることなく様々な頭のかたちに合わせて丁度よくフィットしてくれます。 付属のアジャスターで調整して着用できる点もポイントです。",
+                "path": "clinicMenu/BeautyBoardSalon/医療用ウィッグ/MedicalWigSub3.png"
+            },
+            {
+                "description": "蒸れにくく通気性に優れたウィッグを実現し、暑い季節でも快適にご着用いただけます。",
+                "path": "clinicMenu/BeautyBoardSalon/医療用ウィッグ/MedicalWigSub4.png"
+            },
+            {
+                "description": "人工頭皮のつむじや人工頭皮3D分け目を使い、リアルなつむじを実現しました。",
+                "path": "clinicMenu/BeautyBoardSalon/医療用ウィッグ/MedicalWigSub1.png"
+            }
+        ],
+        "header1": "前を向くあなたの髪に自信を♪医療用ウィッグ",
+        "name": "医療用ウィッグ",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/医療用ウィッグ/DefaultStaff.png",
+                "message": "-",
+                "position": "-",
+                "name": "-"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/医療用ウィッグ/DefaultStaff.png",
+                "message": "-",
+                "position": "-",
+                "name": "-"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/医療用ウィッグ/DefaultStaff.png",
+                "message": "-",
+                "position": "-",
+                "name": "-"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/医療用ウィッグ/DefaultStaff.png",
+                "message": "-",
+                "position": "-",
+                "name": "-"
+            }
+        ],
+        "station": "-",
+        "message": "-",
+        "description1": "医療用ウィッグとは主に脱毛症の方や抗がん剤治療中の方に向けて開発されたウィッグのことを指します。\n脱毛によるデリケートな髪の悩みを軽減するため、 軽さや通気性、着用時の自然さ、素材にこだわった機能性の高いウィッグを取り揃えています。",
+        "menus": [
+            {
+                "genre": [
+                    "お悩み解消"
+                ],
+                "imageUrl": "clinicMenu/BeautyBoardSalon/医療用ウィッグ/squareMenuMedicalWig.png",
+                "tags": [
+                    "薄毛",
+                    "AGA",
+                    "副作用"
+                ],
+                "recommendMessages": [
+                    "脱毛症で髪型に悩んでいる",
+                    "抗がん剤治療を受けている",
+                    "薄毛に悩んでいる"
+                ],
+                "category": [
+                    "髪"
+                ],
+                "price": 0,
+                "topImageUrl": "clinicMenu/BeautyBoardSalon/医療用ウィッグ/squareMenuMedicalWig.png",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/医療用ウィッグ/rectangleMenuMedicalWig.png",
+                "name": "前を向くあなたの髪に自信を 医療用ウィッグ"
+            }
+        ],
+        "address": "-",
+        "staffInfoMessages": [
+            ""
+        ],
+        "openingHoursMessages": [
+            "-"
+        ],
+        "description2": ""
+    },
+    {
+        "facilitiesMessages": [
+            "フラクショナルRF／スペクトラ・QスイッチYAGレーザー／CO2フラクショナルレーザー／ダイオードレーザー／炭酸ガスレーザー／エキシマーシステム／LEDヒーライト／水光注射"
+        ],
+        "remarksMessages": [],
+        "header2": "患者さまひとりひとりに合わせて黄金比眉を提案！",
+        "accessMessages": [
+            "LaLaガーデン 赤羽スズラン通り ※赤羽駅東口に一番街アーケードもありますのでお間違えのないようご注意ください。"
+        ],
+        "type": "clinic",
+        "tel": "03-5939-7510",
+        "url": "https://akabane-kokochi.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "病気などでダメージを受けてしまったお肌を皮膚科で治療するだけではなく、その後の美容皮膚科との連携により、お肌をより良い状態に保つことに力を入れています。",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/アートメイク(眉、アイライン)/AkanabekokochiclinicArtmake-upSub2.png"
+            },
+            {
+                "description": "当院ではお肌の状態や目的に合わせて注入する薬剤をご提案。一人ひとりに合った治療で綺麗にします。",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/アートメイク(眉、アイライン)/AkanabekokochiclinicArtmake-upSub3.png"
+            },
+            {
+                "description": "メニューごとに専用の機械を導入し、しっかり肌に成分を浸透・肌質を改善させます。",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/アートメイク(眉、アイライン)/AkanabekokochiclinicArtmake-upSub4.png"
+            },
+            {
+                "description": "深くまで入れないため1〜2年で薄くなり、流行や年齢に合わせた綺麗な形を作ります。",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/アートメイク(眉、アイライン)/AkanabekokochiclinicArtmake-upSub1.png"
+            }
+        ],
+        "header1": "赤羽◆皮膚科専門医・形成外科専門医在籍！",
+        "name": "赤羽ここちクリニック",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff1.png",
+                "message": "笑顔で接客をこころがけています！是非お越しください",
+                "position": "受付スタッフ",
+                "name": "美玲"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff2.png",
+                "message": "美容業界に20年以上の携わっております。分からないことはなんでも聞いてください！",
+                "position": "看護師",
+                "name": "加笑"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff3.png",
+                "message": "皮膚科と美容皮膚科が併設されています。皮膚のことならなんでも聞いてください！",
+                "position": "受付スタッフ",
+                "name": "杏実"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff4.png",
+                "message": "アートメイクの症例数は200件以上の実績があります。アートメイクなら是非私にお任せください！",
+                "position": "看護師",
+                "name": "菜那"
+            }
+        ],
+        "description1": "25年の皮膚科外来実績を誇る、美容機器・メニューの種類が豊富なクリニックです。新宿・池袋駅からのアクセスも良好で主要駅のクリニックより予約が取りやすいのが特徴。",
+        "message": "「あらゆる皮膚トラブルを解決する」ことはもちろんのこと、肌がキレイになって、うれしくなり、心から明るく笑顔になってもらいたい。 肌だけではなく、心も体もキレイになるクリニックを目指しています。",
+        "station": "JR赤羽駅",
+        "menus": [
+            {
+                "genre": [
+                    "クリニック"
+                ],
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/Artmakeup/squareMenuArtmake-up.png",
+                "tags": [
+                    "アートメイク"
+                ],
+                "recommendMessages": [
+                    ""
+                ],
+                "price": 44000,
+                "category": [
+                    "肌"
+                ],
+                "procedure": "1. 問診票に記入 2. 医師による診察 3. カウンセリング（必要に応じて） 4. 眉・アイラインのデザイン 5. 施術（初めての方は2～4週間空けて2回の施術となります）",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/Artmakeup/rectangleMenuArtmake-up.png",
+                "name": "赤羽ここちクリニック アートメイク(眉、アイライン)"
+            }
+        ],
+        "address": "東京都北区赤羽2-23-2",
+        "staffInfoMessages": [
+            ""
+        ],
+        "openingHoursMessages": [
+            "【月火・木金】9:30～13:00(最終受付 12:30)／",
+            "　　　　　　　14:30～19:00(最終受付 18:30)",
+            "【土】　　　　9:00～17:00(最終受付 16:30)"
+        ],
+        "description2": "深くまで入れないため1〜2年で薄くなり、流行や年齢に合わせた綺麗な形を作ります。"
+    },
+    {
+        "facilitiesMessages": [
+            "個室２\nパーテーション１台（＋１台予定）\nレントゲン・CT撮影室\nマイクロスコープ\nエアフロー\n歯科用ルーペ"
+        ],
+        "remarksMessages": [
+            ""
+        ],
+        "header2": "歯科医院でのみ使用できる過酸化水素を使用。健康的な歯へ！",
+        "tel": "03-3528-9909",
+        "type": "clinic",
+        "accessMessages": [
+            "JR中央・総武線 飯田橋駅より徒歩1分\nJR中央・総武線 水道橋駅より徒歩10分"
+        ],
+        "url": "https://refino-dc.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "再治療を最小限に抑える良質な治療から予防メインテナンスを徹底的に。患者様に最適な医療をご提供できるようスタッフ一同目指して参ります。",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/RefinodentalclinicSub2.png"
+            },
+            {
+                "description": "洗練された落ち着きのある空間で、最新の医学的知識や技術により質の高い歯科医療を提供いたします。",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/RefinodentalclinicSub3.png"
+            },
+            {
+                "description": "あなたの理想の姿、叶えたい姿をカウンセリングしながら治療方針を決めていきますので、ご安心いただけるよう努めてまいります。",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/RefinodentalclinicSub4.png"
+            },
+            {
+                "description": "歯科全体の3％しか導入していないマイクロスコープ使用",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/RefinodentalclinicSub1.png"
+            }
+        ],
+        "header1": "飯田橋◆インプラント・ホワイトニング・ボトックスの治療ならお任せください",
+        "name": "Refino Dental Clinic",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/RefinodentalclinicStaff1.png",
+                "message": "再治療を最小限に抑える良質な治療から徹底的な予防メインテナンスまでを1番大切にしています。個人に合ったオーダーメイド治療計画を立案し提供させていただきます。些細なことでもご相談ください。",
+                "position": "院長",
+                "name": "柿木辰巳（カキノキタツミ）"
+            }
+        ],
+        "station": "飯田橋駅\n水道橋駅",
+        "message": "Refino Dental Clinicは患者様にとって価値のある治療を提供し、主に【インプラント・ホワイトニング・ボトックス注射】で皆様の健康をお口の中から全身サポートさせていただきます。\n治療した歯の再発・再治療を最小限に抑え、患者様のお気持ちに寄り添ったサービスを提供できるよう日々努めております。",
+        "description1": "飯田橋東口より徒歩1分▼【インプラント・ホワイトニング・ボトックス】の歯の治療をおこなっています。患者様に寄り添った最適な医療をお届けできるよう、スタッフ一同親身になってご相談を承ります！",
+        "menus": [
+            {
+                "genre": [
+                    "クリニック"
+                ],
+                "imageUrl": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/squareMenuWhitening.png",
+                "tags": [
+                    "",
+                    "ホワイトニング"
+                ],
+                "recommendMessages": [
+                    "",
+                    "喫煙や食事で色素沈着した歯茎の黒ずみが気になる",
+                    "本質的な治療をしたい"
+                ],
+                "price": 11000,
+                "category": [
+                    "歯"
+                ],
+                "procedure": "1. 口内環境のチェック 2. カウンセリング 3. 歯の着色除去 4. マウスオープナーを装着し、唇を保湿剤で保護 5. 歯の表面にホワイトニング剤を塗布し、専用の光をあてる",
+                "topImageUrl": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/squareMenuWhitening.png",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/ホワイトニング/rectangleMenuWhitening.png",
+                "name": "Refino Dental Clinicホワイトニング（1回のみ）"
+            }
+        ],
+        "address": "東京都新宿区\n下宮比町1-1相沢ビル3F",
+        "staffInfoMessages": [
+            ""
+        ],
+        "openingHoursMessages": [
+            "【月火・木金】10:00～14:00／",
+            "　　　　　　　15:00～18:30",
+            "【土】　　　　10:00～15:00",
+            "【水・日・祝】休診日　　"
+        ],
+        "description2": "歯科医院でのみ使用できる過酸化水素に加え、スーパーポリリン酸配合により歯質を強化しながらホワイトニングができます。歯科衛生士がホワイトニング後のケアも指導♪"
+    },
+    {
+        "facilitiesMessages": [
+            "フラクショナルRF／スペクトラ・QスイッチYAGレーザー／CO2フラクショナルレーザー／ダイオードレーザー／炭酸ガスレーザー／エキシマーシステム／LEDヒーライト／水光注射"
+        ],
+        "remarksMessages": [],
+        "header2": "レーザーで新しい肌に生まれ変わらせる",
+        "accessMessages": [
+            "LaLaガーデン 赤羽スズラン通り ※赤羽駅東口に一番街アーケードもありますのでお間違えのないようご注意ください。"
+        ],
+        "type": "clinic",
+        "tel": "03-5939-7510",
+        "url": "https://akabane-kokochi.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "病気などでダメージを受けてしまったお肌を皮膚科で治療するだけではなく、その後の美容皮膚科との連携により、お肌をより良い状態に保つことに力を入れています。",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/CO2fractionallaser/AkanabekokochiclinicCO2Sub2.png"
+            },
+            {
+                "description": "当院ではお肌の状態や目的に合わせて注入する薬剤をご提案。一人ひとりに合った治療で綺麗にします。",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/CO2fractionallaser/AkanabekokochiclinicCO2Sub3.png"
+            },
+            {
+                "description": "メニューごとに専用の機械を導入し、しっかり肌に成分を浸透・肌質を改善させます。",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/CO2fractionallaser/AkanabekokochiclinicCO2Sub4.png"
+            },
+            {
+                "description": "皮膚深部の真皮層まで微細な穴を空けます。穴の周囲に熱を発生させることで収縮し、長期的に新しいコラーゲンの生成力を促進して肌を再生します。",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/CO2fractionallaser/AkanabekokochiclinicCO2Sub1.png"
+            }
+        ],
+        "header1": "赤羽◆皮膚科専門医・形成外科専門医在籍！",
+        "name": "赤羽ここちクリニック",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff1.png",
+                "message": "笑顔で接客をこころがけています！是非お越しください",
+                "position": "受付スタッフ",
+                "name": "美玲"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff2.png",
+                "message": "美容業界に20年以上の携わっております。分からないことはなんでも聞いてください！",
+                "position": "看護師",
+                "name": "加笑"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff3.png",
+                "message": "皮膚科と美容皮膚科が併設されています。皮膚のことならなんでも聞いてください！",
+                "position": "受付スタッフ",
+                "name": "杏実"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff4.png",
+                "message": "アートメイクの症例数は200件以上の実績があります。アートメイクなら是非私にお任せください！",
+                "position": "看護師",
+                "name": "菜那"
+            }
+        ],
+        "description1": "25年の皮膚科外来実績を誇る、美容機器・メニューの種類が豊富なクリニックです。新宿・池袋駅からのアクセスも良好で主要駅のクリニックより予約が取りやすいのが特徴。",
+        "message": "「あらゆる皮膚トラブルを解決する」ことはもちろんのこと、肌がキレイになって、うれしくなり、心から明るく笑顔になってもらいたい。 肌だけではなく、心も体もキレイになるクリニックを目指しています。",
+        "station": "JR赤羽駅",
+        "menus": [
+            {
+                "genre": [
+                    "クリニック"
+                ],
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/CO2fractionallaser/squareMenuCO2laser.png",
+                "tags": [
+                    "レーザー"
+                ],
+                "recommendMessages": [],
+                "price": 30000,
+                "category": [
+                    "肌"
+                ],
+                "procedure": "1. 施術前に経皮麻酔クリームを塗布（鼻のみの方は麻酔なし。希望の方は1100円にて） 2. レーザー照射 3. 施術後冷却　 所要時間：1時間程度",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/CO2fractionallaser/rectangleMenuCO2laser.png",
+                "name": "赤羽ここちクリニック CO2フラクショナルレーザー 全顔"
+            }
+        ],
+        "address": "東京都北区赤羽2-23-2",
+        "staffInfoMessages": [
+            ""
+        ],
+        "openingHoursMessages": [
+            "【月火・木金】9:30～13:00(最終受付 12:30)／",
+            "　　　　　　　14:30～19:00(最終受付 18:30)",
+            "【土】　　　　9:00～17:00(最終受付 16:30)"
+        ],
+        "description2": "皮膚深部の真皮層まで微細な穴を空けます。穴の周囲に熱を発生させることで収縮し、長期的に新しいコラーゲンの生成力を促進して肌を再生します。"
+    },
+    {
+        "facilitiesMessages": [
+            "フラクショナルRF／スペクトラ・QスイッチYAGレーザー／CO2フラクショナルレーザー／ダイオードレーザー／炭酸ガスレーザー／エキシマーシステム／LEDヒーライト／水光注射"
+        ],
+        "remarksMessages": [],
+        "header2": "ツヤとハリのある瑞々しい肌へ",
+        "accessMessages": [
+            "LaLaガーデン 赤羽スズラン通り ※赤羽駅東口に一番街アーケードもありますのでお間違えのないようご注意ください。"
+        ],
+        "type": "clinic",
+        "tel": "03-5939-7510",
+        "url": "https://akabane-kokochi.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "病気などでダメージを受けてしまったお肌を皮膚科で治療するだけではなく、その後の美容皮膚科との連携により、お肌をより良い状態に保つことに力を入れています。",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/PRS75Injection/AkanabekokochiclinicPRS75Sub2.png"
+            },
+            {
+                "description": "当院ではお肌の状態や目的に合わせて注入する薬剤をご提案。一人ひとりに合った治療で綺麗にします。",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/PRS75Injection/AkanabekokochiclinicPRS75Sub3.png"
+            },
+            {
+                "description": "メニューごとに専用の機械を導入し、しっかり肌に成分を浸透・肌質を改善させます。",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/PRS75Injection/AkanabekokochiclinicPRS75Sub4.png"
+            },
+            {
+                "description": "ヒアルロン酸をベースに、症状やお悩みに合わせて各種ビタミンやアミノ酸・プラセンタ・ボトックスなどの肌の生成に有効な成分をミックスし、皮膚へ直接注入して若々しい肌を取り戻す治療です。",
+                "path": "ツヤとハリのある瑞々しい肌へ"
+            }
+        ],
+        "header1": "赤羽◆皮膚科専門医・形成外科専門医在籍！",
+        "name": "赤羽ここちクリニック",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff1.png",
+                "message": "笑顔で接客をこころがけています！是非お越しください",
+                "position": "受付スタッフ",
+                "name": "美玲"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff2.png",
+                "message": "美容業界に20年以上の携わっております。分からないことはなんでも聞いてください！",
+                "position": "看護師",
+                "name": "加笑"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff3.png",
+                "message": "皮膚科と美容皮膚科が併設されています。皮膚のことならなんでも聞いてください！",
+                "position": "受付スタッフ",
+                "name": "杏実"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff4.png",
+                "message": "アートメイクの症例数は200件以上の実績があります。アートメイクなら是非私にお任せください！",
+                "position": "看護師",
+                "name": "菜那"
+            }
+        ],
+        "description1": "25年の皮膚科外来実績を誇る、美容機器・メニューの種類が豊富なクリニックです。新宿・池袋駅からのアクセスも良好で主要駅のクリニックより予約が取りやすいのが特徴。",
+        "message": "「あらゆる皮膚トラブルを解決する」ことはもちろんのこと、肌がキレイになって、うれしくなり、心から明るく笑顔になってもらいたい。 肌だけではなく、心も体もキレイになるクリニックを目指しています。",
+        "station": "JR赤羽駅",
+        "menus": [
+            {
+                "genre": [
+                    "クリニック"
+                ],
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/PRS75Injection/squareMenuPRS75.png",
+                "tags": [
+                    "注射"
+                ],
+                "recommendMessages": [],
+                "price": 25000,
+                "category": [
+                    "肌"
+                ],
+                "procedure": "1ショット9本の細い針でスタンプのように注入し、スピーディかつ均一に皮膚の浅い層に成分を届けていきます。",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/PRS75Injection/rectangleMenuPRS75.png",
+                "name": "赤羽ここちクリニック 水光注射 全顔 (PRS75)"
+            }
+        ],
+        "address": "東京都北区赤羽2-23-2",
+        "staffInfoMessages": [
+            ""
+        ],
+        "openingHoursMessages": [
+            "【月火・木金】9:30～13:00(最終受付 12:30)／",
+            "　　　　　　　14:30～19:00(最終受付 18:30)",
+            "【土】　　　　9:00～17:00(最終受付 16:30)"
+        ],
+        "description2": "ヒアルロン酸をベースに、症状やお悩みに合わせて各種ビタミンやアミノ酸・プラセンタ・ボトックスなどの肌の生成に有効な成分をミックスし、皮膚へ直接注入して若々しい肌を取り戻す治療です。"
+    },
+    {
+        "facilitiesMessages": [
+            "個室２\nパーテーション１台（＋１台予定）\nレントゲン・CT撮影室\nマイクロスコープ\nエアフロー\n歯科用ルーペ"
+        ],
+        "remarksMessages": [
+            ""
+        ],
+        "header2": "CTによる正確な診断で事前プランニング",
+        "tel": "03-3528-9909",
+        "type": "clinic",
+        "accessMessages": [
+            "JR中央・総武線 飯田橋駅より徒歩1分\nJR中央・総武線 水道橋駅より徒歩10分"
+        ],
+        "url": "https://refino-dc.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "再治療を最小限に抑える良質な治療から予防メインテナンスを徹底的に。患者様に最適な医療をご提供できるようスタッフ一同目指して参ります。",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/インプラント相談/RefinodentalclinicSub2.png"
+            },
+            {
+                "description": "洗練された落ち着きのある空間で、最新の医学的知識や技術により質の高い歯科医療を提供いたします。",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/インプラント相談/RefinodentalclinicSub3.png"
+            },
+            {
+                "description": "あなたの理想の姿、叶えたい姿をカウンセリングしながら治療方針を決めていきますので、ご安心いただけるよう努めてまいります。",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/インプラント相談/RefinodentalclinicSub4.png"
+            },
+            {
+                "description": "歯科全体の3％しか導入していないマイクロスコープ使用",
+                "path": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/インプラント相談/RefinodentalclinicSub1.png"
+            }
+        ],
+        "header1": "飯田橋◆インプラント・ホワイトニング・ボトックスの治療ならお任せください",
+        "name": "Refino Dental Clinic",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/インプラント相談/RefinodentalclinicStaff1.png",
+                "message": "再治療を最小限に抑える良質な治療から徹底的な予防メインテナンスまでを1番大切にしています。個人に合ったオーダーメイド治療計画を立案し提供させていただきます。些細なことでもご相談ください。",
+                "position": "院長",
+                "name": "柿木辰巳（カキノキタツミ）"
+            }
+        ],
+        "station": "飯田橋駅\n水道橋駅",
+        "message": "Refino Dental Clinicは患者様にとって価値のある治療を提供し、主に【インプラント・ホワイトニング・ボトックス注射】で皆様の健康をお口の中から全身サポートさせていただきます。\n治療した歯の再発・再治療を最小限に抑え、患者様のお気持ちに寄り添ったサービスを提供できるよう日々努めております。",
+        "description1": "飯田橋東口より徒歩1分「Refino Dental Clinic」です。【インプラント・ホワイトニング・ボトックス】の歯の治療をおこなっております。患者様に寄り添った最適な医療をお届けできるようスタッフ一同、親身になってご相談を承りますので、お気軽にお問い合わせ下さい。",
+        "menus": [
+            {
+                "name": "Refino Dental Clinicインプラント相談",
+                "imageUrl": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/インプラント相談/squareMenuImplantConsul.png",
+                "tags": [
+                    "インプラント",
+                    "矯正"
+                ],
+                "recommendMessages": [
+                    "抜歯をしなければならない方",
+                    "入れ歯を入れたくない方",
+                    "口臭が気になる方"
+                ],
+                "price": 0,
+                "category": [
+                    "歯"
+                ],
+                "procedure": "【治療される場合の流れ】 1. 顎の骨に生体親和性の高い金属でできた人工歯根を埋め込む 2. そこにアバットメントと呼ばれる人工歯との連結部分にあたる部品を取り付け、人工歯を被せる",
+                "topImageUrl": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/インプラント相談/squareMenuImplantConsul.png",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/Refino Dental Clinic/インプラント相談/rectangleMenuImplantConsul.png",
+                "genre": [
+                    "クリニック"
+                ]
+            }
+        ],
+        "address": "東京都新宿区下宮比町1-1相沢ビル3F",
+        "staffInfoMessages": [
+            ""
+        ],
+        "openingHoursMessages": [
+            "【月火・木金】10:00～14:00／",
+            "　　　　　　　15:00～18:30",
+            "【土】　　　　10:00～15:00",
+            "【水・日・祝】休診日　　"
+        ],
+        "description2": "骨の状態やお口の中の健康状態を診断し、患者様ごとに合わせたプランを提案させていただきます。お気軽にご相談ください。"
+    },
+    {
+        "facilitiesMessages": [
+            "総数2"
+        ],
+        "remarksMessages": [
+            "エンパワーミー限定の初回無料体験メニューです。歯の色をチャームポイントにしたい方、営業の方にもオススメです。"
+        ],
+        "header2": "強力な自社開発ジェルで効果的な施術",
+        "tel": "",
+        "type": "salon",
+        "accessMessages": [
+            "元町駅東口にある【神戸らーめん第一旭元町本店】さんの前の信号を、駅を背にして直進し商店街へ出て左に曲がります。少し進むと左手に見える【洋麺屋五右衛門】さんの右手が元町スタービルです。オーエスドラックさんの右隣の階段が入口で、少し階段を上がり、エレベーターで６階へお越し下さい。分からない場合はお気軽にお電話ください。"
+        ],
+        "url": "https://ecxia-inc.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "私たちエクシアは日本一通いやすいホワイトニングサロンを目指しております。今後も全国各地に出店し、より多くのお客様に手軽にホワイトニングをご利用いただけるよう努めてまいります。",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/神戸元町店/EcxiaKobeSalonSub2.png"
+            },
+            {
+                "description": "生活習慣や加齢などによるお悩みも解消できます。清潔感を保ち口臭ケアにも◎学校・仕事帰りに来店OK！",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/神戸元町店/EcxiaKobeSalonSub3.png"
+            },
+            {
+                "description": "歯科業界でも注目されているポリリン酸という強力な美白成分を高配合することで、他のサロンの溶剤と比較して圧倒的に粘度が高く、一回の施術でも効果をはっきりと感じられる溶剤を使用しています。",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/神戸元町店/EcxiaKobeSalonSub4.png"
+            }
+        ],
+        "header1": "元町駅3分◆店舗数NO.1★強力3色LEDライト使用！コスパ&効果抜群のセルフホワイトニング",
+        "description1": "元町駅3分の好立地▼コスパ抜群のセルフホワイトニングロンです。通い放題で回数無制限で通える！歯の黄ばみ・着色が気になる・自然な白さを目指したい方におすすめです。",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/神戸元町店/EcxiaKobeSalonStaff1.png",
+                "message": "丁寧な接客を心がけています。元町駅3分でお出かけ前や通学・仕事終わりなどにも便利です。はじめての方もぜひ一度お越しください！",
+                "position": "店長",
+                "name": "REI"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/神戸元町店/EcxiaKobeSalonStaff2.png",
+                "message": "一緒に綺麗な歯を目指しましょう！よろしくお願いいたします。",
+                "position": "スタッフ",
+                "name": "KOTOKA"
+            }
+        ],
+        "station": "元町駅",
+        "message": "業界注目の強力な自社開発ジェルの美白美容成分がホワイトニング効果あり。清潔感溢れるキレイな白い歯で笑顔に自信を持ちましょう！通い放題のお得なプランもご用意しています。ぜひ一度お越しください♪",
+        "menus": [
+            {
+                "genre": [
+                    "リフレッシュ",
+                    "サロン"
+                ],
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/神戸元町店/squareMenuEcxiaWhitening.png",
+                "tags": [
+                    "ホワイトニング"
+                ],
+                "recommendMessages": [
+                    "歯の黄ばみを改善したい",
+                    "歯を白くしたい",
+                    "痛くないホワイトニングがしたい"
+                ],
+                "category": [
+                    "歯"
+                ],
+                "price": 0,
+                "topImageUrl": "clinicMenu/BeautyBoardSalon/ecxia/神戸元町店/squareMenuEcxiaWhitening.png",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/ecxia/神戸元町店/rectangleMenuEcxiaWhitening.png",
+                "name": "ecxia神戸元町店ホワイトニング通い放題初回無料体験"
+            }
+        ],
+        "name": "ecxia神戸元町店",
+        "address": "兵庫県神戸市中央区元町通1-6-12　元町スタービル6Ｆ ",
+        "staffInfoMessages": [
+            ""
+        ],
+        "openingHoursMessages": [
+            "10:00～20:30(最終受付：19:00)  ",
+            "不定休"
+        ],
+        "description2": "強力な自社開発ジェルの美白美容成分使用で効果抜群です。清潔感溢れるキレイな白い歯で笑顔に自信を♪通い放題のお得なプランもご用意しています。"
+    },
+    {
+        "facilitiesMessages": [
+            ""
+        ],
+        "remarksMessages": [
+            "エンパワーミー限定の初回無料体験メニューです。歯の色をチャームポイントにしたい方、営業の方にもオススメです。"
+        ],
+        "header2": "強力な自社開発ジェルで効果的な施術",
+        "tel": "",
+        "type": "salon",
+        "accessMessages": [
+            "井の頭駅西口を出て、プラザ通りを直進。三つ目の交差点を右折し希望通りに入り、５ｍ先にある左手の路地に左折したら大通りまで直進してください。大通りを右折してすぐ右手に見える梅田ビルの6階です。"
+        ],
+        "url": "https://ecxia-inc.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "私たちエクシアは日本一通いやすいホワイトニングサロンを目指しております。今後も全国各地に出店し、より多くのお客様に手軽にホワイトニングをご利用いただけるよう努めてまいります。",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/渋谷西口店/EcxiaShibuyaSalonSub2.png"
+            },
+            {
+                "description": "生活習慣や加齢などによるお悩みも解消できます。清潔感を保ち口臭ケアにも◎学校・仕事帰りに来店OK！",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/渋谷西口店/EcxiaShibuyaSalonSub3.png"
+            },
+            {
+                "description": "歯科業界でも注目されているポリリン酸という強力な美白成分を高配合することで、他のサロンの溶剤と比較して圧倒的に粘度が高く、一回の施術でも効果をはっきりと感じられる溶剤を使用しています。",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/渋谷西口店/EcxiaShibuyaSalonSub4.png"
+            }
+        ],
+        "header1": "渋谷駅徒歩2分◆効果&コスパ最高◆強力3色LEDライトでホワイトニングデビュー♪",
+        "description1": "渋谷駅西口徒歩2分の好立地◎▼マスク解禁でも口元に自信を★デンタルビューティは当店で！沁みなくて安い回数制限なしのコスパ抜群☆仕事・サロン帰りに気軽に通える▼歯の黄ばみが気になる・自然な白さを目指したい方に♪強力な美容成分&スピーディで強力効果の最新3色LED照射ライト使用▼全国100店舗展開中♪",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/渋谷西口店/EcxiaShibuyaSalonStaff1.png",
+                "message": "原宿駅徒歩3分でお出かけ前や通学・仕事終わりなどにも通えます。回数制限なしで月4回(1回2set)通っても1セット ¥1,375！ぜひ一度お越しください★ご来店お待ちしております！",
+                "position": "MIHARU",
+                "name": "MIHARU"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/渋谷西口店/EcxiaShibuyaSalonStaff2.png",
+                "message": "丁寧な接客を心がけています！",
+                "position": "スタッフ",
+                "name": "HARUNA"
+            }
+        ],
+        "station": "京王井の頭線渋谷駅",
+        "message": "ホワイトニングのお悩み以外にも、脱毛やストレスのお悩みなどもお気軽にご相談ください。当店ではセルフ脱毛、酸素カプセルの設備もございます。皆様のご予約とご来店をお待ちしています。",
+        "menus": [
+            {
+                "genre": [
+                    "リフレッシュ",
+                    "サロン"
+                ],
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/渋谷西口店/squareMenuEcxiaWhitening.png",
+                "tags": [
+                    "ホワイトニング"
+                ],
+                "recommendMessages": [
+                    "歯の黄ばみを改善したい",
+                    "歯を白くしたい",
+                    "痛くないホワイトニングがしたい"
+                ],
+                "category": [
+                    "歯"
+                ],
+                "price": 0,
+                "topImageUrl": "clinicMenu/BeautyBoardSalon/ecxia/渋谷西口店/squareMenuEcxiaWhitening.png",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/ecxia/渋谷西口店/rectangleMenuEcxiaWhitening.png",
+                "name": "ecxia渋谷西口店ホワイトニング通い放題初回無料体験"
+            }
+        ],
+        "name": "ecxia渋谷西口店",
+        "address": "東京都渋谷区道玄坂1-9-1 梅山ビル6Ｆ",
+        "staffInfoMessages": [
+            ""
+        ],
+        "openingHoursMessages": [
+            "10:00～20:30(最終受付：19:00)  ",
+            "不定休"
+        ],
+        "description2": "業界注目☆強力な自社開発ジェルの美白美容成分使用で効果◎清潔感溢れるキレイな白い歯で笑顔に自信を！通い放題のお得なプランもご用意。通いやすい&理想の白く美しい歯をキープ！"
+    },
+    {
+        "facilitiesMessages": [
+            "総数2(チェア2) "
+        ],
+        "remarksMessages": [
+            "エンパワーミー限定の初回無料体験メニューです。歯の色をチャームポイントにしたい方、営業の方にもオススメです。"
+        ],
+        "header2": "強力な自社開発ジェルで効果的な施術",
+        "tel": "",
+        "type": "salon",
+        "accessMessages": [
+            "地下鉄七隈線（天神南駅）徒歩1分→福岡（天神）駅東口を出てDAIMARU方面に横断歩道を渡ります。DAIMARUの向い側のビルが当店です。"
+        ],
+        "url": "https://ecxia-inc.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "私たちエクシアは日本一通いやすいホワイトニングサロンを目指しております。今後も全国各地に出店し、より多くのお客様に手軽にホワイトニングをご利用いただけるよう努めてまいります。",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/福岡天神南店/EcxiaFukuokaSalonSub2.png"
+            },
+            {
+                "description": "生活習慣や加齢などによるお悩みも解消できます。清潔感を保ち口臭ケアにも◎学校・仕事帰りに来店OK！",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/福岡天神南店/EcxiaFukuokaSalonSub3.png"
+            }
+        ],
+        "header1": "天神駅5分/天神南駅1分◆コスパ+効果実感◎セルフホワイトニング",
+        "description1": "天神南駅徒歩1分・天神駅徒歩3分の好立地◎歯の黄ばみが気になる・自然な白さを目指したい方に♪強力な美容成分＆スピーディな最新機器で白いはを目指しましょう！",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/福岡天神南店/EcxiaFukuokaSalonStaff1.png",
+                "message": "笑顔でお待ちしております！",
+                "position": "スタッフ",
+                "name": "スタッフ"
+            }
+        ],
+        "station": "福岡（天神）駅",
+        "message": "福岡・天神でリーズナブルに通えるセルフホワイトニングをお探しの方におすすめです。エクシア ホワイトニングに任せれば安く理想の白い歯を維持することができます！2席のみのセルフホワイトニングサロン。福岡天神駅すぐなのでお出かけ前や通学・仕事終わりなどにも◎ぜひ一度お越しください。ご来店お待ちしております！",
+        "menus": [
+            {
+                "genre": [
+                    "リフレッシュ",
+                    "サロン"
+                ],
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/福岡天神南店/squareMenuEcxiaWhitening.png",
+                "tags": [
+                    "ホワイトニング"
+                ],
+                "recommendMessages": [
+                    "歯の黄ばみを改善したい",
+                    "歯を白くしたい",
+                    "痛くないホワイトニングがしたい"
+                ],
+                "category": [
+                    "歯"
+                ],
+                "price": 0,
+                "topImageUrl": "clinicMenu/BeautyBoardSalon/ecxia/福岡天神南店/squareMenuEcxiaWhitening.png",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/ecxia/福岡天神南店/rectangleMenuEcxiaWhitening.png",
+                "name": "ecxia福岡天神南店ホワイトニング通い放題初回無料体験"
+            }
+        ],
+        "name": "ecxia福岡天神南店",
+        "address": "福岡県福岡市中央区渡辺通5-24-30 東カン福岡第一キャステール805",
+        "staffInfoMessages": [
+            "総数1人(スタッフ1人)"
+        ],
+        "openingHoursMessages": [
+            "10:00～20:00(最終受付：19:00)",
+            "不定休"
+        ],
+        "description2": "コスパ×効果重視の方おすすめセルフホワイトニング。美しい仕上がりとモチの良さが人気の秘密！施術後の効果を是非ご体感下さい。第一印象は口元から!見た目の印象をガラッと変化！白い歯になって口元美人を目指しましょう♪"
+    },
+    {
+        "facilitiesMessages": [
+            "フラクショナルRF／スペクトラ・QスイッチYAGレーザー／CO2フラクショナルレーザー／ダイオードレーザー／炭酸ガスレーザー／エキシマーシステム／LEDヒーライト／水光注射"
+        ],
+        "remarksMessages": [],
+        "header2": "7つのメニューから毎月3つ組み合わせ自由のサブスク！",
+        "accessMessages": [
+            "LaLaガーデン 赤羽スズラン通り ※赤羽駅東口に一番街アーケードもありますのでお間違えのないようご注意ください。"
+        ],
+        "type": "clinic",
+        "tel": "03-5939-7510",
+        "url": "https://akabane-kokochi.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "白玉点滴(美白、疲労回復) 1200mg ※画像はイメージです",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/SubscBeautyfullywhitePlan/AkanabekokochiclinicSubscSub1.png"
+            },
+            {
+                "description": "ヤグトーニング(肝斑) 全顔1回 ※画像はイメージです",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/SubscBeautyfullywhitePlan/AkanabekokochiclinicSubscSub2.png"
+            },
+            {
+                "description": "ヤグルートロ(美白、くすみ) 全顔1回 ※画像はイメージです",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/SubscBeautyfullywhitePlan/AkanabekokochiclinicSubscSub3.png"
+            },
+            {
+                "description": "ヤグスペクトラ(肌質改善) 全顔1回 ※画像はイメージです",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/SubscBeautyfullywhitePlan/AkanabekokochiclinicSubscSub4.png"
+            },
+            {
+                "description": "ダーマペン4(肌質改善) 全顔1回 ※画像はイメージです",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/SubscBeautyfullywhitePlan/AkanabekokochiclinicSubscSub5.png"
+            },
+            {
+                "description": "マッサージピール(肌のハリ、弾力改善) 全顔1回 ※画像はイメージです",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/SubscBeautyfullywhitePlan/AkanabekokochiclinicSubscSub6.png"
+            },
+            {
+                "description": "フォトフェイシャル(シミ) 全顔1回(額を除く) ※画像はイメージです",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/SubscBeautyfullywhitePlan/AkanabekokochiclinicSubscSub7.png"
+            }
+        ],
+        "header1": "赤羽◆皮膚科専門医・形成外科専門医在籍！",
+        "name": "赤羽ここちクリニック",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff1.png",
+                "message": "笑顔で接客をこころがけています！是非お越しください",
+                "position": "受付スタッフ",
+                "name": "美玲"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff2.png",
+                "message": "美容業界に20年以上の携わっております。分からないことはなんでも聞いてください！",
+                "position": "看護師",
+                "name": "加笑"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff3.png",
+                "message": "皮膚科と美容皮膚科が併設されています。皮膚のことならなんでも聞いてください！",
+                "position": "受付スタッフ",
+                "name": "杏実"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff4.png",
+                "message": "アートメイクの症例数は200件以上の実績があります。アートメイクなら是非私にお任せください！",
+                "position": "看護師",
+                "name": "菜那"
+            }
+        ],
+        "description1": "25年の皮膚科外来実績を誇る、美容機器・メニューの種類が豊富なクリニックです。新宿・池袋駅からのアクセスも良好で主要駅のクリニックより予約が取りやすいのが特徴。",
+        "message": "「あらゆる皮膚トラブルを解決する」ことはもちろんのこと、肌がキレイになって、うれしくなり、心から明るく笑顔になってもらいたい。 肌だけではなく、心も体もキレイになるクリニックを目指しています。",
+        "station": "JR赤羽駅",
+        "menus": [
+            {
+                "name": "赤羽ここちクリニック サブスク 若返り美白プラン",
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/SubscBeautyfullywhitePlan/squareMenuSubsc-Rejuveneacence.png",
+                "tags": [
+                    "美白",
+                    "アンチエイジング"
+                ],
+                "recommendMessages": [],
+                "price": 25000,
+                "category": [
+                    "肌"
+                ],
+                "procedure": "毎月、下記7つのメニューからお好きなメニューを3つ選んで受けていただきます。 ①白玉点滴(美白、疲労回復) 1200mg ②ヤグトーニング(肝斑)  全顔1回 ③ヤグルートロ(美白、くすみ)  全顔1回 ④ヤグスペクトラ(肌質改善) 全顔1回 ⑤ダーマペン(肌質改善) 全顔1回 ⑥マッサージピール(肌のハリ、弾力改善) 全顔1回 ⑦フォトフェイシャル(額を除く) 全顔1回",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/SubscBeautyfullywhitePlan/rectangleMenuSubsc-Rejuveneacence.png",
+                "genre": [
+                    "クリニック"
+                ]
+            }
+        ],
+        "address": "東京都北区赤羽2-23-2",
+        "staffInfoMessages": [
+            ""
+        ],
+        "openingHoursMessages": [
+            "【月火・木金】9:30～13:00(最終受付 12:30)／",
+            "　　　　　　　14:30～19:00(最終受付 18:30)",
+            "【土】　　　　9:00～17:00(最終受付 16:30)"
+        ],
+        "description2": "美白、肌質改善、ハリ、シミなど若返りに効くメニューを自由に選んで施術を受けられます。"
+    },
+    {
+        "facilitiesMessages": [
+            ""
+        ],
+        "remarksMessages": [
+            "エンパワーミー限定の初回無料体験メニューです。歯の色をチャームポイントにしたい方、営業の方にもオススメです。"
+        ],
+        "header2": "強力な自社開発ジェルで効果的な施術",
+        "tel": "",
+        "type": "salon",
+        "accessMessages": [
+            "赤坂駅から徒歩1分・天神駅からも徒歩9分"
+        ],
+        "url": "https://ecxia-inc.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "私たちエクシアは日本一通いやすいホワイトニングサロンを目指しております。今後も全国各地に出店し、より多くのお客様に手軽にホワイトニングをご利用いただけるよう努めてまいります。",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/天神店/EcxiaTenjinSalonSub2.png"
+            },
+            {
+                "description": "生活習慣や加齢などによるお悩みも解消できます。清潔感を保ち口臭ケアにも◎学校・仕事帰りに来店OK！",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/天神店/EcxiaTenjinSalonSub3.png"
+            }
+        ],
+        "header1": "赤坂駅2分◆効果実感！ホワイトニングデビューにおすすめ",
+        "description1": "赤坂駅2分の好立地▼通い放題で回数無制限で通える！歯の黄ばみ・着色が気になる・自然な白さを目指したい方に♪▼強力な美容成分＆スピーディな最新機器を使用しています。",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/天神店/EcxiaTenjinSalonStaff1.png",
+                "message": "笑顔でお待ちしております！",
+                "position": "スタッフ",
+                "name": "スタッフ"
+            }
+        ],
+        "station": "赤坂駅\n天神駅",
+        "message": "エクシア ホワイトニングに任せれば安く理想の白い歯を叶え・維持することができます！神戸で人気のセルフホワイトニングです。赤坂駅２分でお出かけ前や通学・仕事終わりなどにも是非一度お越しください。お待ちしております！",
+        "menus": [
+            {
+                "genre": [
+                    "リフレッシュ",
+                    "サロン"
+                ],
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/天神店/squareMenuEcxiaWhitening.png",
+                "tags": [
+                    "ホワイトニング"
+                ],
+                "recommendMessages": [
+                    "歯の黄ばみを改善したい",
+                    "歯を白くしたい",
+                    "痛くないホワイトニングがしたい"
+                ],
+                "category": [
+                    "歯"
+                ],
+                "price": 0,
+                "topImageUrl": "clinicMenu/BeautyBoardSalon/ecxia/天神店/squareMenuEcxiaWhitening.png",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/ecxia/天神店/rectangleMenuEcxiaWhitening.png",
+                "name": "ecxia天神店ホワイトニング通い放題初回無料体験"
+            }
+        ],
+        "name": "ecxia天神店",
+        "address": "福岡県福岡市中央区大名2-10-38 ディーウィングタワー1802",
+        "staffInfoMessages": [
+            ""
+        ],
+        "openingHoursMessages": [
+            "お問い合わせください。",
+            "不定休"
+        ],
+        "description2": "歯を白くトーンUPし笑顔が一層引き立ちます。歯の黄ばみが気になる方大歓迎◎初めての方でもスタッフが丁寧にご説明します！学割もあり◎"
+    },
+    {
+        "facilitiesMessages": [
+            "総数3(ベッド1／リクライニングチェア2)"
+        ],
+        "remarksMessages": [
+            "ご予約の当日キャンセルは、キャンセル料金が発生致しますのでお早めのご連絡をお願いします。"
+        ],
+        "header2": "強力な自社開発ジェルで効果的な施術",
+        "tel": "",
+        "type": "salon",
+        "accessMessages": [
+            "地下鉄名城線・矢場町駅４番出口を出て、直進します。最初の交差点を右へ曲がり、坂を登りきったフレッシュネスバーガーの隣が当店です。"
+        ],
+        "url": "https://ecxia-inc.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "私たちエクシアは日本一通いやすいホワイトニングサロンを目指しております。今後も全国各地に出店し、より多くのお客様に手軽にホワイトニングをご利用いただけるよう努めてまいります。",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/栄店/EcxiaSakaeSalonSub2.png"
+            },
+            {
+                "description": "生活習慣や加齢などによるお悩みも解消できます。清潔感を保ち口臭ケアにも◎学校・仕事帰りに来店OK！",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/栄店/EcxiaSakaeSalonSub3.png"
+            },
+            {
+                "description": "歯科業界でも注目されているポリリン酸という強力な美白成分を高配合することで、他のサロンの溶剤と比較して圧倒的に粘度が高く、一回の施術でも効果をはっきりと感じられる溶剤を使用しています。",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/栄店/EcxiaSakaeSalonSub4.png"
+            }
+        ],
+        "header1": "矢場町3分◆店舗数NO.1！強力3色LEDライト使用でコスパ&効果抜群のセルフホワイトニング",
+        "description1": "矢場町駅3分/栄駅近くの好立地▼月々回数制限なし！月4回で1回2500円の高コスパ◎▼意外と見られている口元。マスク解禁で口元が気になる…歯科矯正にプラスで歯の黄ばみ・自然な白さを目指したい方に♪",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/栄店/EcxiaSakaeSalonStaff1.png",
+                "message": "名古屋名駅でリーズナブルに通えるセルフホワイトニングをお探しの方におすすめ！エクシア ホワイトニングに任せれば安く理想の白い歯を維持することができます★",
+                "position": "店長",
+                "name": "FUKA"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/栄店/EcxiaSakaeSalonStaff2.png",
+                "message": "ホワイトニングで白い歯をご提供いたします！",
+                "position": "スタッフ",
+                "name": "MOMOKA"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/栄店/EcxiaSakaeSalonStaff3.png",
+                "message": "ホワイトニング初心者でも安心できるようにサポートいたします。",
+                "position": "スタッフ",
+                "name": "YUI"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/栄店/EcxiaSakaeSalonStaff4.png",
+                "message": "一緒に白い歯を目指しましょう！",
+                "position": "スタッフ",
+                "name": "YUZUKA"
+            }
+        ],
+        "station": "地下鉄名城線・矢場町駅",
+        "message": "業界注目の強力な自社開発ジェルの美白美容成分がホワイトニング効果あり◎清潔感溢れるキレイな白い歯で笑顔に自信を持ちましょう！通い放題のお得なプランもご用意しています。理想の白く美しい歯をキープ！",
+        "menus": [
+            {
+                "genre": [
+                    "リフレッシュ",
+                    "サロン"
+                ],
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/栄店/squareMenuEcxiaWhitening.png",
+                "tags": [
+                    "ホワイトニング"
+                ],
+                "recommendMessages": [
+                    "歯の黄ばみを改善したい",
+                    "歯を白くしたい",
+                    "痛くないホワイトニングがしたい"
+                ],
+                "category": [
+                    "歯"
+                ],
+                "price": 0,
+                "topImageUrl": "clinicMenu/BeautyBoardSalon/ecxia/栄店/squareMenuEcxiaWhitening.png",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/ecxia/栄店/rectangleMenuEcxiaWhitening.png",
+                "name": "ecxia栄店ホワイトニング通い放題初回無料体験"
+            }
+        ],
+        "name": "ecxia栄店",
+        "address": "愛知県名古屋市中区錦3-14-14 セントラル錦ビル5Ｆ",
+        "staffInfoMessages": [
+            "4名"
+        ],
+        "openingHoursMessages": [
+            "10:00～20:30(最終受付：19:00)  ",
+            "不定休"
+        ],
+        "description2": "SNSで話題のエクシア。歯の黄ばみが気になる方大歓迎◎セルフホワイトニングで白い歯と口元美人を目指しましょう♪初めての方でもスタッフが丁寧にご説明します！学割もあり◎"
+    },
+    {
+        "facilitiesMessages": [
+            ""
+        ],
+        "remarksMessages": [
+            "エンパワーミー限定の初回無料体験メニューです。歯の色をチャームポイントにしたい方、営業の方にもオススメです。"
+        ],
+        "header2": "強力な自社開発ジェルで効果的な施術",
+        "tel": "",
+        "type": "salon",
+        "accessMessages": [
+            "心斎橋駅1番出口を出て御堂筋を本町駅方面に直進してください。ハリーウィンストンを右に曲がり最初の交差点を左折していただくと、左手に当店ビルが見えます。"
+        ],
+        "url": "https://ecxia-inc.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "私たちエクシアは日本一通いやすいホワイトニングサロンを目指しております。今後も全国各地に出店し、より多くのお客様に手軽にホワイトニングをご利用いただけるよう努めてまいります。",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/心斎橋店/EcxiaShinsaibasiSalonSub2.png"
+            },
+            {
+                "description": "生活習慣や加齢などによるお悩みも解消できます。清潔感を保ち口臭ケアにも◎学校・仕事帰りに来店OK！",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/心斎橋店/EcxiaShinsaibasiSalonSub3.png"
+            }
+        ],
+        "header1": "心斎橋駅4分◆全国110店舗展開。強力3色LEDライトでコスパ&効果抜群のセルフホワイトニング♪",
+        "description1": "心斎橋駅4分の好立地▼歯の黄ばみが気になる・自然な白さを目指したい方におすすめ▼強力な美容成分＆スピーディな最新機器を使用しています。",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/心斎橋店/EcxiaShinsaibasiSalonStaff1.png",
+                "message": "心斎橋でリーズナブルに通えるセルフホワイトニングをお探しの方！心斎橋駅徒歩4分でお出かけ前や通学・仕事終わりなどにも通いやすいですよ。お待ちしています！",
+                "position": "スタッフ",
+                "name": "NAGISA"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/心斎橋店/EcxiaShinsaibasiSalonStaff2.png",
+                "message": "エクシアはお客様とスタッフの距離が近くアットホームです。ぜひお越しください！",
+                "position": "スタッフ",
+                "name": "SAKI"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/心斎橋店/EcxiaShinsaibasiSalonStaff3.png",
+                "message": "エクシアはお客様とスタッフが仲良しですので、お気軽にご来店ください！",
+                "position": "スタッフ",
+                "name": "HIKARI"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/心斎橋店/EcxiaShinsaibasiSalonStaff4.png",
+                "message": "はじめての方もお待ちしています！",
+                "position": "スタッフ",
+                "name": "MOMO"
+            }
+        ],
+        "station": "心斎橋駅",
+        "message": "業界注目の強力な自社開発ジェルの美白美容成分がホワイトニング効果あり。清潔感溢れるキレイな白い歯で笑顔に自信を持ちましょう！通い放題のお得なプランもご用意しています。ぜひ一度お越しください♪",
+        "menus": [
+            {
+                "genre": [
+                    "リフレッシュ",
+                    "サロン"
+                ],
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/心斎橋店/squareMenuEcxiaWhitening.png",
+                "tags": [
+                    "ホワイトニング"
+                ],
+                "recommendMessages": [
+                    "歯の黄ばみを改善したい",
+                    "歯を白くしたい",
+                    "痛くないホワイトニングがしたい"
+                ],
+                "category": [
+                    "歯"
+                ],
+                "price": 0,
+                "topImageUrl": "clinicMenu/BeautyBoardSalon/ecxia/心斎橋店/squareMenuEcxiaWhitening.png",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/ecxia/心斎橋店/rectangleMenuEcxiaWhitening.png",
+                "name": "ecxia心斎橋店ホワイトニング通い放題初回無料体験"
+            }
+        ],
+        "name": "ecxia心斎橋店",
+        "address": "大阪府大阪市中央区南船場3-9-1　心斎橋プラチナプラザ5F ",
+        "staffInfoMessages": [
+            "4名"
+        ],
+        "openingHoursMessages": [
+            "10:00～20:00(最終受付：19:00)",
+            "不定休"
+        ],
+        "description2": "業界でも注目の強力な美容成分使用で効果◎清潔感溢れるキレイな白い歯で笑顔にも自信がつくきます！2回目以降も通いやすいお得なプランもご用意。通いやすい&キレイな白い歯をキープしましょう。"
+    },
+    {
+        "facilitiesMessages": [
+            "フラクショナルRF／スペクトラ・QスイッチYAGレーザー／CO2フラクショナルレーザー／ダイオードレーザー／炭酸ガスレーザー／エキシマーシステム／LEDヒーライト／水光注射"
+        ],
+        "remarksMessages": [],
+        "header2": "ゴワつきを改善してお肌のハリ・弾力アップ！",
+        "accessMessages": [
+            "LaLaガーデン 赤羽スズラン通り ※赤羽駅東口に一番街アーケードもありますのでお間違えのないようご注意ください。"
+        ],
+        "type": "clinic",
+        "tel": "03-5939-7510",
+        "url": "https://akabane-kokochi.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "病気などでダメージを受けてしまったお肌を皮膚科で治療するだけではなく、その後の美容皮膚科との連携により、お肌をより良い状態に保つことに力を入れています。",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/Dermapen4/AkanabekokochiclinicDermapen4Sub2.png"
+            },
+            {
+                "description": "当院ではお肌の状態や目的に合わせて注入する薬剤をご提案。一人ひとりに合った治療で綺麗にします。",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/Dermapen4/AkanabekokochiclinicDermapen4Sub3.png"
+            },
+            {
+                "description": "メニューごとに専用の機械を導入し、しっかり肌に成分を浸透・肌質を改善させます。",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/Dermapen4/AkanabekokochiclinicDermapen4Sub4.png"
+            },
+            {
+                "description": "髪の毛よりも細い針で肌に微細な穴を形成し、肌が改善する力を高める治療です。にきび跡やクレーター、小じわ、毛穴の開きといった肌トラブル＋肌老化の改善やエイジングケアが期待できます。",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/Dermapen4/AkanabekokochiclinicDermapen4Sub1.png"
+            }
+        ],
+        "header1": "赤羽◆皮膚科専門医・形成外科専門医在籍！",
+        "name": "赤羽ここちクリニック",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff1.png",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff1.png",
+                "position": "受付スタッフ",
+                "message": "笑顔で接客をこころがけています！是非お越しください",
+                "name": "美玲"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff2.png",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff2.png",
+                "position": "看護師",
+                "message": "美容業界に20年以上の携わっております。分からないことはなんでも聞いてください！",
+                "name": "加笑"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff3.png",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff3.png",
+                "position": "受付スタッフ",
+                "message": "皮膚科と美容皮膚科が併設されています。皮膚のことならなんでも聞いてください！",
+                "name": "杏実"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff4.png",
+                "path": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/AkanabekokochiclinicStaff4.png",
+                "position": "看護師",
+                "message": "アートメイクの症例数は200件以上の実績があります。アートメイクなら是非私にお任せください！",
+                "name": "菜那"
+            }
+        ],
+        "station": "JR赤羽駅",
+        "message": "「あらゆる皮膚トラブルを解決する」ことはもちろんのこと、肌がキレイになって、うれしくなり、心から明るく笑顔になってもらいたい。 肌だけではなく、心も体もキレイになるクリニックを目指しています。",
+        "description1": "25年の皮膚科外来実績を誇る、美容機器・メニューの種類が豊富なクリニックです。新宿・池袋駅からのアクセスも良好で主要駅のクリニックより予約が取りやすいのが特徴。",
+        "menus": [
+            {
+                "name": "赤羽ここちクリニック ダーマペン4 全顔",
+                "imageUrl": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/Dermapen4/squareMenuDermapen4.png",
+                "tags": [
+                    "ダーマペン4"
+                ],
+                "recommendMessages": [],
+                "price": 22000,
+                "category": [
+                    "肌"
+                ],
+                "procedure": "1. 洗顔後をする 2. 麻酔クリームをお顔に塗り、20分程おいて麻酔が効くのを待つ 3. 額→両頬→鼻の順にダーマペン（先端に16本の細い針）で穴を開ける（薬剤を導入する場合は、このタイミングで薬剤を塗布しながら施術） 4. クーリング",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/赤羽ここちクリニック/Dermapen4/rectangleaMenuDermapen4.png",
+                "genre": [
+                    "クリニック"
+                ]
+            }
+        ],
+        "address": "東京都北区赤羽2-23-2",
+        "staffInfoMessages": [
+            ""
+        ],
+        "openingHoursMessages": [
+            "【月火・木金】9:30～13:00(最終受付 12:30)／",
+            "　　　　　　　14:30～19:00(最終受付 18:30)",
+            "【土】　　　　9:00～17:00(最終受付 16:30)"
+        ],
+        "description2": "髪の毛よりも細い針で肌に微細な穴を形成し、肌が改善する力を高める治療です。にきび跡やクレーター、小じわ、毛穴の開きといった肌トラブル＋肌老化の改善やエイジングケアが期待できます。"
+    },
+    {
+        "facilitiesMessages": [
+            "総数3"
+        ],
+        "remarksMessages": [
+            "エンパワーミー限定の初回無料体験メニューです。歯の色をチャームポイントにしたい方、営業の方にもオススメです。"
+        ],
+        "header2": "強力な自社開発ジェルで効果的な施術",
+        "tel": "",
+        "type": "salon",
+        "accessMessages": [
+            "JR大阪駅中央出口を出て高速バスの乗り場へ向かいます。左方向に進むと交差点に出るので、そのまままっすぐ福島方向へ進み、梅田ランプ西交差点まで歩いてください。そちらを右に曲がっていただきますと、左手が当店です。"
+        ],
+        "url": "https://ecxia-inc.com/",
+        "holidayMessages": [],
+        "images": [
+            {
+                "description": "私たちエクシアは日本一通いやすいホワイトニングサロンを目指しております。今後も全国各地に出店し、より多くのお客様に手軽にホワイトニングをご利用いただけるよう努めてまいります。",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/大阪梅田店/EcxiaUmedaSalonSub2.png"
+            },
+            {
+                "description": "生活習慣や加齢などによるお悩みも解消できます。清潔感を保ち口臭ケアにも◎学校・仕事帰りに来店OK！",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/大阪梅田店/EcxiaUmedaSalonSub3.png"
+            },
+            {
+                "description": "歯科業界でも注目されているポリリン酸という強力な美白成分を高配合することで、他のサロンの溶剤と比較して圧倒的に粘度が高く、一回の施術でも効果をはっきりと感じられる溶剤を使用しています。",
+                "path": "clinicMenu/BeautyBoardSalon/ecxia/大阪梅田店/EcxiaUmedaSalonSub4.png"
+            }
+        ],
+        "header1": "大阪駅8分◆通い放題！効果抜群歯に優しく強力なジェルを使用した効果抜群のセルフホワイトニングです♪",
+        "description1": "大阪駅/福島駅8分の好立地▼全国100店舗以上展開中のコスパ抜群のセルフホワイトニングロン★強力な美容成分&スピーディな最新機器を使用。歯の表面を溶かす過酸化水素無配合の優しい塗布液なのに白くなると大人気！",
+        "staffs": [
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/大阪梅田店/EcxiaUmedaSalonStaff1.png",
+                "message": "3色LEDは白さとツヤ感を出します！エクシアホワイトニングに任せれば安く理想の白い歯を維持することができますよ。歯科矯正に通っている方も多数ご来店！ご来院お待ちしています。",
+                "position": "NAGISA",
+                "name": "NAGISA"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/大阪梅田店/EcxiaUmedaSalonStaff2.png",
+                "message": "エクシアはお客様とスタッフの距離が近くアットホームです。ぜひお越しください！",
+                "position": "スタッフ",
+                "name": "SAKI"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/大阪梅田店/EcxiaUmedaSalonStaff3.png",
+                "message": "エクシアはお客様とスタッフが仲良しですので、お気軽にご来店ください！",
+                "position": "HIKARI",
+                "name": "HIKARI"
+            },
+            {
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/大阪梅田店/EcxiaUmedaSalonStaff4.png",
+                "message": "はじめての方もお待ちしています！",
+                "position": "MOMO",
+                "name": "MOMO"
+            }
+        ],
+        "station": "JR大阪駅",
+        "message": "業界注目の強力な自社開発ジェルの美白美容成分がホワイトニング効果あり。清潔感溢れるキレイな白い歯で笑顔に自信を持ちましょう！通い放題のお得なプランもご用意しています。ぜひ一度お越しください♪",
+        "menus": [
+            {
+                "genre": [
+                    "リフレッシュ",
+                    "サロン"
+                ],
+                "imageUrl": "clinicMenu/BeautyBoardSalon/ecxia/大阪梅田店/squareMenuEcxiaWhitening.png",
+                "tags": [
+                    "ホワイトニング"
+                ],
+                "recommendMessages": [
+                    "歯の黄ばみを改善したい",
+                    "歯を白くしたい",
+                    "痛くないホワイトニングがしたい"
+                ],
+                "category": [
+                    "歯"
+                ],
+                "price": 0,
+                "topImageUrl": "clinicMenu/BeautyBoardSalon/ecxia/大阪梅田店/squareMenuEcxiaWhitening.png",
+                "imageUrlLarge": "clinicMenu/BeautyBoardSalon/ecxia/大阪梅田店/rectangleMenuEcxiaWhitening.png",
+                "name": "ecxia大阪梅田店ホワイトニング通い放題初回無料体験"
+            }
+        ],
+        "name": "ecxia大阪梅田店",
+        "address": "大阪府大阪市福島区福島6-18-18 W.O.B Nishiumeda 203号室 ",
+        "staffInfoMessages": [
+            "4名"
+        ],
+        "openingHoursMessages": [
+            "10:00～20:30(最終受付：19:00)  ",
+            "不定休"
+        ],
+        "description2": "生活習慣や加齢などによるお悩みも解消！仕事帰りのご来店も歓迎。大阪駅3分の好立地！通いやすいお得なおすすめプランもご用意しています。"
+    }
+]

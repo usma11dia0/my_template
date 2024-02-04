@@ -1,0 +1,570 @@
+[
+    {
+        "id": "288vkO9LKcJQrXe3qzXg",
+        "data": {
+            "accessMessages": [
+                "JR中央線 / 中央総武線 / 東京メトロ東西線 中野駅北口より徒歩1分\n中野通り沿い、中野サンプラザ前、野村證券とカラオケ店の間のビルの5階です。"
+            ],
+            "address": "東京都中野区中野5丁目65-4 和光ビル5F　",
+            "description1": "中野駅北口から徒歩1分▼様々な種類の薄毛・AGA治療薬、ED治療薬で、患者さまの経済的な負担軽減、なるべく安い価格・値段でのご提供を。美容医療、予防医療を目的に医療機関専用サプリメントなどを用いた栄養療法も行なっております。",
+            "description2": "男性ホルモンであるDHTの生成を抑制することにより、毛周期（ヘアサイクル）を正常化させAGAの進行を防ぎます。",
+            "facilitiesMessages": [
+                ""
+            ],
+            "header1": "中野駅徒歩1分◆性機能治療(ED)、発毛治療(AGA)、美容、予防医療を行う自由診療のクリニック",
+            "header2": "薄毛は治る時代！悩まずに、まずはご相談ください。",
+            "holidayMessages": [],
+            "images": [
+                {
+                    "description": "悩みを人に悟られたくないという方へ配慮して、入り口があえて目立たないビルを選びました。医師も男性であるため、繊細な事情を異性に聞かれたくない患者さまにとって相談しやすい環境です。",
+                    "path": "clinicMenu/BeautyBoardSalon/中野トータルヘルスケアクリニック/NakanototalhealthcareclinicSub1.png"
+                },
+                {
+                    "description": "AGA・薄毛治療に取り組む方はたくさんいますが、なかなか効果が現れないために心が折れてしまい、途中で治療を止めてしまう方も少なくありません。",
+                    "path": "clinicMenu/BeautyBoardSalon/中野トータルヘルスケアクリニック/NakanototalhealthcareclinicSub2.png"
+                },
+                {
+                    "description": "AGA治療はリアップという発毛剤から始まり、今は内服薬も充実しております。悩まずに、まずはご相談ください。",
+                    "path": "clinicMenu/BeautyBoardSalon/中野トータルヘルスケアクリニック/NakanototalhealthcareclinicSub3.png"
+                }
+            ],
+            "menus": [
+                {
+                    "category": [
+                        "髪"
+                    ],
+                    "genre": [
+                        "クリニック"
+                    ],
+                    "imageUrl": "clinicMenu/BeautyBoardSalon/中野トータルヘルスケアクリニック/フィナステリド（海外ジェネリック）/squareMenuFinasteride.png",
+                    "imageUrlLarge": "clinicMenu/BeautyBoardSalon/中野トータルヘルスケアクリニック/フィナステリド（海外ジェネリック）/rectangleMenuFinasteride.png",
+                    "name": "フィナステリド（海外ジェネリック）",
+                    "price": 3300,
+                    "procedure": "",
+                    "recommendMessages": [
+                        "薄毛に悩んでいる"
+                    ],
+                    "tag": [
+                        "AGA",
+                        "薄毛"
+                    ],
+                    "topImageUrl": "clinicMenu/BeautyBoardSalon/中野トータルヘルスケアクリニック/フィナステリド（海外ジェネリック）/squareMenuFinasteride.png"
+                }
+            ],
+            "message": "当クリニックは自費診療のみ、保険診療は行っておりません。様々な種類の薄毛・AGA治療薬、ED治療薬を取り揃えており、患者さまの経済的な負担軽減も目指しています。なるべく安い価格・値段でご提供いたします。中野駅から徒歩1分の立地で、通勤の際にもお立ち寄りいただきやすいので、ぜひご予約ください。",
+            "name": "中野トータルヘルスケアクリニック",
+            "openingHoursMessages": [
+                "【月火水・金】20:00〜23:00 ",
+                "【土】　　　　14:30〜19:00",
+                "【木・日・祝】休診日"
+            ],
+            "remarksMessages": [
+                "【注意】\n・服用中は献血できません（服用中止後、1ヶ月経過すれば可能）\n・肝機能障害患者は服用してはいけません。"
+            ],
+            "staffInfoMessages": [
+                ""
+            ],
+            "staffs": [
+                {
+                    "imageUrl": "clinicMenu/BeautyBoardSalon/中野トータルヘルスケアクリニック/NakanototalhealthcareclinicStaff1.png",
+                    "message": "当クリニックでは発毛治療(AGA)、性機能治療（EDなど)、美容、予防医療を行い、クオリティ・オブ・ライフ（QOL)を改善させる様、スタッフ一同日々努力を重ねております。是非お一人で悩まず、当院にご相談ください。",
+                    "name": "",
+                    "position": "院長"
+                }
+            ],
+            "station": "中野駅",
+            "tel": "03-5942-9430",
+            "type": "clinic",
+            "url": "https://thcareclinic.com/"
+        }
+    },
+    {
+        "id": "AiaMvZAgqRA69QqvhN0G",
+        "data": {
+            "accessMessages": [
+                "JR中央線 / 中央総武線 / 東京メトロ東西線 中野駅北口より徒歩1分\n中野通り沿い、中野サンプラザ前、野村證券とカラオケ店の間のビルの5階です。"
+            ],
+            "address": "東京都中野区中野5丁目65-4 和光ビル5F　",
+            "description1": "中野駅北口から徒歩1分▼様々な種類の薄毛・AGA治療薬、ED治療薬で、患者さまの経済的な負担軽減、なるべく安い価格・値段でのご提供を。美容医療、予防医療を目的に医療機関専用サプリメントなどを用いた栄養療法も行なっております。",
+            "description2": "男性ホルモンであるDHTの生成を抑制することにより、毛周期（ヘアサイクル）を正常化させAGAの進行を防ぎます。",
+            "facilitiesMessages": [
+                ""
+            ],
+            "header1": "中野駅徒歩1分◆性機能治療(ED)、発毛治療(AGA)、美容、予防医療を行う自由診療のクリニック",
+            "header2": "薄毛は治る時代！悩まずに、まずはご相談ください。",
+            "holidayMessages": [],
+            "images": [
+                {
+                    "description": "悩みを人に悟られたくないという方へ配慮して、入り口があえて目立たないビルを選びました。医師も男性であるため、繊細な事情を異性に聞かれたくない患者さまにとって相談しやすい環境です。",
+                    "path": "clinicMenu/BeautyBoardSalon/中野トータルヘルスケアクリニック/NakanototalhealthcareclinicSub1.png"
+                },
+                {
+                    "description": "AGA・薄毛治療に取り組む方はたくさんいますが、なかなか効果が現れないために心が折れてしまい、途中で治療を止めてしまう方も少なくありません。",
+                    "path": "clinicMenu/BeautyBoardSalon/中野トータルヘルスケアクリニック/NakanototalhealthcareclinicSub2.png"
+                },
+                {
+                    "description": "AGA治療はリアップという発毛剤から始まり、今は内服薬も充実しております。悩まずに、まずはご相談ください。",
+                    "path": "clinicMenu/BeautyBoardSalon/中野トータルヘルスケアクリニック/NakanototalhealthcareclinicSub3.png"
+                }
+            ],
+            "menus": [
+                {
+                    "category": [
+                        "髪"
+                    ],
+                    "genre": [
+                        "クリニック"
+                    ],
+                    "imageUrl": "clinicMenu/BeautyBoardSalon/中野トータルヘルスケアクリニック/フィナステリド（厚生労働省承認薬）/squareMenuFinasteride.png",
+                    "imageUrlLarge": "clinicMenu/BeautyBoardSalon/中野トータルヘルスケアクリニック/フィナステリド（厚生労働省承認薬）/rectangleMenuFinasteride.png",
+                    "name": "フィナステリド（厚生労働省承認薬）",
+                    "price": 4950,
+                    "procedure": "",
+                    "recommendMessages": [
+                        "薄毛に悩んでいる"
+                    ],
+                    "tag": [
+                        "AGA",
+                        "薄毛"
+                    ],
+                    "topImageUrl": "clinicMenu/BeautyBoardSalon/中野トータルヘルスケアクリニック/フィナステリド（厚生労働省承認薬）/squareMenuFinasteride.png"
+                }
+            ],
+            "message": "当クリニックは自費診療のみ、保険診療は行っておりません。様々な種類の薄毛・AGA治療薬、ED治療薬を取り揃えており、患者さまの経済的な負担軽減も目指しています。なるべく安い価格・値段でご提供いたします。中野駅から徒歩1分の立地で、通勤の際にもお立ち寄りいただきやすいので、ぜひご予約ください。",
+            "name": "中野トータルヘルスケアクリニック",
+            "openingHoursMessages": [
+                "【月火水・金】20:00〜23:00 ",
+                "【土】　　　　14:30〜19:00",
+                "【木・日・祝】休診日"
+            ],
+            "remarksMessages": [
+                "【注意】\n・服用中は献血できません（服用中止後、1ヶ月経過すれば可能）\n・肝機能障害患者は服用してはいけません。"
+            ],
+            "staffInfoMessages": [
+                ""
+            ],
+            "staffs": [
+                {
+                    "imageUrl": "clinicMenu/BeautyBoardSalon/中野トータルヘルスケアクリニック/NakanototalhealthcareclinicStaff1.png",
+                    "message": "当クリニックでは発毛治療(AGA)、性機能治療（EDなど)、美容、予防医療を行い、クオリティ・オブ・ライフ（QOL)を改善させる様、スタッフ一同日々努力を重ねております。是非お一人で悩まず、当院にご相談ください。",
+                    "name": "",
+                    "position": "院長"
+                }
+            ],
+            "station": "中野駅",
+            "tel": "03-5942-9430",
+            "type": "clinic",
+            "url": "https://thcareclinic.com/"
+        }
+    },
+    {
+        "id": "wmjsqYbpzYMicf8LEvw6",
+        "data": {
+            "accessMessages": [
+                "JR中央線 / 中央総武線 / 東京メトロ東西線 中野駅北口より徒歩1分\n中野通り沿い、中野サンプラザ前、野村證券とカラオケ店の間のビルの5階です。"
+            ],
+            "address": "東京都中野区中野5丁目65-4 和光ビル5F　",
+            "description1": "中野駅北口から徒歩1分▼様々な種類の薄毛・AGA治療薬、ED治療薬で、患者さまの経済的な負担軽減、なるべく安い価格・値段でのご提供を。美容医療、予防医療を目的に医療機関専用サプリメントなどを用いた栄養療法も行なっております。",
+            "description2": "男性ホルモンであるDHTの生成を抑制し、毛周期（ヘアサイクル）の正常化及び前立腺細胞の増殖抑制によって肥大した前立腺の縮小に繋がり、AGA及びBPH（前立腺肥大症）を改善させる効果があります。",
+            "facilitiesMessages": [
+                ""
+            ],
+            "header1": "中野駅徒歩1分◆性機能治療(ED)、発毛治療(AGA)、美容、予防医療を行う自由診療のクリニック",
+            "header2": "薄毛は治る時代！悩まずに、まずはご相談ください。",
+            "holidayMessages": [],
+            "images": [
+                {
+                    "description": "悩みを人に悟られたくないという方へ配慮して、入り口があえて目立たないビルを選びました。医師も男性であるため、繊細な事情を異性に聞かれたくない患者さまにとって相談しやすい環境です。",
+                    "path": "clinicMenu/BeautyBoardSalon/中野トータルヘルスケアクリニック/NakanototalhealthcareclinicSub1.png"
+                },
+                {
+                    "description": "AGA・薄毛治療に取り組む方はたくさんいますが、なかなか効果が現れないために心が折れてしまい、途中で治療を止めてしまう方も少なくありません。",
+                    "path": "clinicMenu/BeautyBoardSalon/中野トータルヘルスケアクリニック/NakanototalhealthcareclinicSub2.png"
+                },
+                {
+                    "description": "AGA治療はリアップという発毛剤から始まり、今は内服薬も充実しております。悩まずに、まずはご相談ください。",
+                    "path": "clinicMenu/BeautyBoardSalon/中野トータルヘルスケアクリニック/NakanototalhealthcareclinicSub3.png"
+                }
+            ],
+            "menus": [
+                {
+                    "category": [
+                        "髪"
+                    ],
+                    "genre": [
+                        "クリニック"
+                    ],
+                    "imageUrl": "clinicMenu/BeautyBoardSalon/中野トータルヘルスケアクリニック/デュタステリド（厚生労働省承認薬）/squareMenuDutasteride.png",
+                    "imageUrlLarge": "clinicMenu/BeautyBoardSalon/中野トータルヘルスケアクリニック/デュタステリド（厚生労働省承認薬）/rectangleMenuDutasteride.png",
+                    "name": "デュタステリド（厚生労働省承認薬）",
+                    "price": 7700,
+                    "procedure": "",
+                    "recommendMessages": [
+                        "薄毛に悩んでいる"
+                    ],
+                    "tag": [
+                        "AGA",
+                        "薄毛"
+                    ],
+                    "topImageUrl": "clinicMenu/BeautyBoardSalon/中野トータルヘルスケアクリニック/デュタステリド（厚生労働省承認薬）/squareMenuDutasteride.png"
+                }
+            ],
+            "message": "当クリニックは自費診療のみ、保険診療は行っておりません。様々な種類の薄毛・AGA治療薬、ED治療薬を取り揃えており、患者さまの経済的な負担軽減も目指しています。なるべく安い価格・値段でご提供いたします。中野駅から徒歩1分の立地で、通勤の際にもお立ち寄りいただきやすいので、ぜひご予約ください。",
+            "name": "中野トータルヘルスケアクリニック",
+            "openingHoursMessages": [
+                "【月火水・金】20:00〜23:00 ",
+                "【土】　　　　14:30〜19:00",
+                "【木・日・祝】休診日"
+            ],
+            "remarksMessages": [
+                "【注意】\n・女性と子供は服用NGです。\n・服用中は献血できません。"
+            ],
+            "staffInfoMessages": [
+                ""
+            ],
+            "staffs": [
+                {
+                    "imageUrl": "clinicMenu/BeautyBoardSalon/中野トータルヘルスケアクリニック/NakanototalhealthcareclinicStaff1.png",
+                    "message": "当クリニックでは発毛治療(AGA)、性機能治療（EDなど)、美容、予防医療を行い、クオリティ・オブ・ライフ（QOL)を改善させる様、スタッフ一同日々努力を重ねております。是非お一人で悩まず、当院にご相談ください。",
+                    "name": "",
+                    "position": "院長"
+                }
+            ],
+            "station": "中野駅",
+            "tel": "03-5942-9430",
+            "type": "clinic",
+            "url": "https://thcareclinic.com/"
+        }
+    },
+    {
+        "id": "kPUOPCc3F0diycrRRamY",
+        "data": {
+            "accessMessages": [
+                "京都市営地下鉄烏丸線 北山駅(出入口4) より徒歩1分"
+            ],
+            "address": "京都府京都市北区上賀茂岩ケ垣内町98番地7",
+            "description1": "北山駅出入口4から徒歩1分◆一般皮膚科から美容皮膚科まで、脱毛やAGA治療、巻き爪治療など全身の幅広いお悩みに対応いたします。治療も美容も、両方の相談ができるクリニックです。",
+            "description2": "数回の施術でシミを目立たなくさせたり、コラーゲンを産生して肌質の改善や引き締め効果も期待できます。また、強力な冷却機能を内臓することにより痛みやダウンタイムがほとんどなく、安全に施術ができるようになりました。",
+            "facilitiesMessages": [
+                ""
+            ],
+            "header1": "北山駅徒歩1分◆保険診療は予約外の方も受診可能",
+            "header2": "光で肌を活性化！若返り効果のある光治療",
+            "holidayMessages": [],
+            "images": [
+                {
+                    "description": "北山さくらクリニックでは、 お一人お一人に真摯に向き合い、お肌を治していくだけでなく 健やかで健康的な美しいお肌へと改善、維持していくために様々な形で サポートさせていただきます。",
+                    "path": "clinicMenu/BeautyBoardSalon/北山さくらクリニック/KitayamasakuraclinicSub1.png"
+                },
+                {
+                    "description": "当院では、VIORA社が開発した最新の美容機器ビオラV30を採用しております。光を利用して肌の若返り・活性化を図ることができます。",
+                    "path": "clinicMenu/BeautyBoardSalon/北山さくらクリニック/KitayamasakuraclinicSub2.png"
+                },
+                {
+                    "description": "メラニンを治療する波長、コラーゲンを産生する波長、赤ら顔を治療する波長など複数の症状に作用する確かな効果◎また、強力な冷却機能内蔵で痛みやダウンタイムを極限まで減らし、安全な施術を実現！",
+                    "path": "clinicMenu/BeautyBoardSalon/北山さくらクリニック/KitayamasakuraclinicSub3.png"
+                }
+            ],
+            "menus": [
+                {
+                    "category": [
+                        "肌"
+                    ],
+                    "genre": [
+                        "クリニック"
+                    ],
+                    "imageUrl": "clinicMenu/BeautyBoardSalon/北山さくらクリニック/squareMenuPhototherapy.png",
+                    "imageUrlLarge": "clinicMenu/BeautyBoardSalon/北山さくらクリニック/rectangleMenuPhototherapy.png",
+                    "name": "フォトセラピー",
+                    "price": 11800,
+                    "procedure": "",
+                    "recommendMessages": [
+                        "小シワが気になる",
+                        "くすみ、毛穴の黒ずみが気になる",
+                        "ニキビ、ニキビ痕に悩んでいる"
+                    ],
+                    "tag": [
+                        "フォトセラピー",
+                        "光治療"
+                    ],
+                    "topImageUrl": "clinicMenu/BeautyBoardSalon/北山さくらクリニック/squareMenuPhototherapy.png"
+                }
+            ],
+            "message": "当院は、京都府立植物園の正面という大変環境に恵まれた場所にて2021年に開業いたしました。身体の内側から改善していく治療から、美容のための光治療まで対応いたします。美容に関する専門知識を有するスタッフも在駐しておりますので、お気軽にご相談ください。",
+            "name": "北山さくらクリニック",
+            "openingHoursMessages": [
+                "【月水金】 　　　　9:30〜12:30、14:30〜17:30",
+                "【土】 　　　　　　9:30〜15:30",
+                "【火・木・日・祝】休診日"
+            ],
+            "remarksMessages": [
+                "・皮膚を冷却しながら照射するため、施術に伴う痛みはほとんど無し\n・施術後のお化粧可能\n・施術間隔は治療は1〜2カ月に一度推奨\n・施術期間中は、施術部位の日焼け予防（遮光）をしっかり行う"
+            ],
+            "staffInfoMessages": [
+                ""
+            ],
+            "staffs": [
+                {
+                    "imageUrl": "clinicMenu/BeautyBoardSalon/北山さくらクリニック/KitayamasakuraclinicStaff1.jpg",
+                    "message": "治療から健康なお肌の維持増進、アンチエイジングまで。体の外側からだけではなく内服薬や美容注射等を通して内側からも改善していく治療や、光治療等、お身体への負担が少なくかつ堅実に改善していける診療を心がけております。",
+                    "name": "橋本 昌之",
+                    "position": "院長"
+                }
+            ],
+            "station": "北山駅",
+            "tel": "075-791-3641",
+            "type": "clinic",
+            "url": "https://mitsubachi-clinic.com/kitayamasakura-clinic/"
+        }
+    },
+    {
+        "id": "ktRuWaOq4Lq050Z7E1AV",
+        "data": {
+            "accessMessages": [
+                "京成本線「お花茶屋」駅北口を出ると、「プロムナードお花茶屋」という商店街がありますので、その商店街をまっすぐ進んでください。商店街の終わりまで進むと右手に当院があります。駅からは徒歩5分ほどです。"
+            ],
+            "address": " 東京都葛飾区お花茶屋2-5-16",
+            "description1": "セラミック治療システムや歯科用CT、マイクロスコープなど、お口の中を総合的に診て精密な治療を行うための設備を充実しています。",
+            "description2": "笑った時に見える歯茎がコンプレックスな方へ。リスクを把握していて安心できる、ひとり一人に適した当院のレーザー治療で自信のある笑顔に♪",
+            "facilitiesMessages": [
+                "歯科用CT／マイクロスコープ／セラミック治療システム／半導体レーザーの2波長／エルビュームレーザー／NDYAGレーザー／炭酸ガスレーザー／エアフロー／ダイアグノデント／電動麻酔器／根管拡大装置／EMSの超音波スケーラ／口腔内乾燥測定器ほか"
+            ],
+            "header1": "葛飾◆お口の中、お肌のことならお任せください。39年間愛されているクリニック。ご自身でも清潔な口内環境を維持できるようサポートいたします。",
+            "header2": "ガミ―スマイル治療",
+            "holidayMessages": [],
+            "images": [
+                {
+                    "description": "お花茶屋駅北口を降りてプロムナードお花茶屋通りをまっすぐ進むと、5分ほどで当院に着きます。",
+                    "path": "clinicMenu/BeautyBoardSalon/コージ歯科/kojiShikaSub1.png"
+                },
+                {
+                    "description": "定期検診から治療後のメンテナンス、さらにご自宅でのケア方法の指導まで、健康な歯とお口を維持するためのサポートをしています。",
+                    "path": "clinicMenu/BeautyBoardSalon/コージ歯科/kojiShikaSub2.png"
+                },
+                {
+                    "description": "歯科医院に苦手意識を持つ原因の一つが治療時の痛みだと思います。その痛みを軽減するために、当院では麻酔の仕方からこだわり、リラックスして治療に臨んでいただけるよう配慮しています。",
+                    "path": "clinicMenu/BeautyBoardSalon/コージ歯科/kojiShikaSub3.png"
+                },
+                {
+                    "description": "患者さまにかかる負担を軽減するため、新しい機器を積極的に導入してより良い治療を提供。口腔外バキュームの設置や使用器具の滅菌処理、診療台の水の定期的な循環など、衛生管理も徹底しています。",
+                    "path": "clinicMenu/BeautyBoardSalon/コージ歯科/kojiShikaSub4.png"
+                }
+            ],
+            "menus": [
+                {
+                    "category": [
+                        "歯"
+                    ],
+                    "genre": [
+                        "クリニック"
+                    ],
+                    "imageUrl": "clinicMenu/BeautyBoardSalon/コージ歯科/ガミースマイル歯茎レーザー/squareMenuGummysmileGumslaser.png",
+                    "imageUrlLarge": "clinicMenu/BeautyBoardSalon/コージ歯科/ガミースマイル歯茎レーザー/rectangleMenuGummysmileGumslaser.png",
+                    "name": "ガミースマイル歯茎レーザー",
+                    "price": 33000,
+                    "procedure": "ますは、どのようなお悩みを抱えているのか、どうなりたいと思っているのかなど患者さまの要望を詳しくお伺いし、それに添った治療計画を立てていきます。それから治療に入ります。",
+                    "recommendMessages": [
+                        "笑った時に歯茎が見えるのが気になる",
+                        "ガミースマイルを治したい"
+                    ],
+                    "tag": [
+                        "ガミースマイル"
+                    ],
+                    "topImageUrl": "clinicMenu/BeautyBoardSalon/コージ歯科/ガミースマイル歯茎レーザー/squareMenuGummysmileGumslaser.png"
+                }
+            ],
+            "message": "表面麻酔や電動注射器などを使用して痛みの少ない治療を提供できるようにしたり、セラミック治療システムを導入することで、少ない回数で治療を終えられるようにしています。お口の問題でお悩みの方はお気軽にご相談ください！",
+            "name": "コージ歯科",
+            "openingHoursMessages": [
+                "【月～金】9:30〜13:00、14:30〜19:00",
+                "【土】　　9：30-12：00",
+                "【日・祝】休診日"
+            ],
+            "remarksMessages": [
+                ""
+            ],
+            "staffInfoMessages": [
+                "5名"
+            ],
+            "staffs": [
+                {
+                    "imageUrl": "clinicMenu/BeautyBoardSalon/コージ歯科/kojiShikaStaff1.png",
+                    "message": "皆さまが緊張せず、気軽に通えるような歯科医院を目指して日々の診療に取り組んでいます。皆さまにとってより良い治療を提供し、末永く健康を維持していただくためのお手伝いをいたします。",
+                    "name": "貝塚 浩二",
+                    "position": "院長"
+                }
+            ],
+            "station": "お花茶屋駅",
+            "tel": "0120-814-807",
+            "type": "clinic",
+            "url": "https://www.kohjidc.com/"
+        }
+    },
+    {
+        "id": "41DEv33eqqF67v2jU3QE",
+        "data": {
+            "accessMessages": [
+                "京成本線「お花茶屋」駅北口を出ると、「プロムナードお花茶屋」という商店街がありますので、その商店街をまっすぐ進んでください。商店街の終わりまで進むと右手に当院があります。駅からは徒歩5分ほどです。"
+            ],
+            "address": " 東京都葛飾区お花茶屋2-5-16",
+            "description1": "セラミック治療システムや歯科用CT、マイクロスコープなど、お口の中を総合的に診て精密な治療を行うための設備を充実しています。",
+            "description2": "注射針を使用せず、歯科専用の業務用複合美容機器を使用してお口廻りのほうれい線や小じわをケアいたします。1回のみの予約よりお得！",
+            "facilitiesMessages": [
+                "歯科用CT／マイクロスコープ／セラミック治療システム／半導体レーザーの2波長／エルビュームレーザー／NDYAGレーザー／炭酸ガスレーザー／エアフロー／ダイアグノデント／電動麻酔器／根管拡大装置／EMSの超音波スケーラ／口腔内乾燥測定器ほか"
+            ],
+            "header1": "葛飾◆お口の中、お肌のことならお任せください。39年間愛されているクリニック。ご自身でも清潔な口内環境を維持できるようサポートいたします。",
+            "header2": "注射針を一切使用しないから痛みゼロ！ヒアルロン酸導入",
+            "holidayMessages": [],
+            "images": [
+                {
+                    "description": "お花茶屋駅北口を降りてプロムナードお花茶屋通りをまっすぐ進むと、5分ほどで当院に着きます。",
+                    "path": "clinicMenu/BeautyBoardSalon/コージ歯科/kojiShikaSub1.png"
+                },
+                {
+                    "description": "定期検診から治療後のメンテナンス、さらにご自宅でのケア方法の指導まで、健康な歯とお口を維持するためのサポートをしています。",
+                    "path": "clinicMenu/BeautyBoardSalon/コージ歯科/kojiShikaSub2.png"
+                },
+                {
+                    "description": "歯科医院に苦手意識を持つ原因の一つが治療時の痛みだと思います。その痛みを軽減するために、当院では麻酔の仕方からこだわり、リラックスして治療に臨んでいただけるよう配慮しています。",
+                    "path": "clinicMenu/BeautyBoardSalon/コージ歯科/kojiShikaSub3.png"
+                },
+                {
+                    "description": "患者さまにかかる負担を軽減するため、新しい機器を積極的に導入してより良い治療を提供。口腔外バキュームの設置や使用器具の滅菌処理、診療台の水の定期的な循環など、衛生管理も徹底しています。",
+                    "path": "clinicMenu/BeautyBoardSalon/コージ歯科/kojiShikaSub4.png"
+                }
+            ],
+            "menus": [
+                {
+                    "category": [
+                        "肌"
+                    ],
+                    "genre": [
+                        "クリニック"
+                    ],
+                    "imageUrl": "clinicMenu/BeautyBoardSalon/コージ歯科/ヒアルロン酸 月2回/squareMenuHyaluronicacid.png",
+                    "imageUrlLarge": "clinicMenu/BeautyBoardSalon/コージ歯科/ヒアルロン酸 月2回/rectangleMenuHyaluronicacid.png",
+                    "name": "ヒアルロン酸 月2回",
+                    "price": 5500,
+                    "procedure": "ますは、どのようなお悩みを抱えているのか、どうなりたいと思っているのかなど患者さまの要望を詳しくお伺いし、それに添った治療計画を立てていきます。それから治療に入ります。",
+                    "recommendMessages": [
+                        "ほうれい線や小シワが気になる",
+                        "シミやくすみを消したい",
+                        "顔のたるみを解消したい"
+                    ],
+                    "tag": [
+                        "ヒアルロン酸"
+                    ],
+                    "topImageUrl": "clinicMenu/BeautyBoardSalon/コージ歯科/ヒアルロン酸 月2回/squareMenuHyaluronicacid.png"
+                }
+            ],
+            "message": "表面麻酔や電動注射器などを使用して痛みの少ない治療を提供できるようにしたり、セラミック治療システムを導入することで、少ない回数で治療を終えられるようにしています。お口の問題でお悩みの方はお気軽にご相談ください！",
+            "name": "コージ歯科",
+            "openingHoursMessages": [
+                "【月～金】9:30〜13:00、14:30〜19:00",
+                "【土】　　9：30-12：00",
+                "【日・祝】休診日"
+            ],
+            "remarksMessages": [
+                ""
+            ],
+            "staffInfoMessages": [
+                "5名"
+            ],
+            "staffs": [
+                {
+                    "imageUrl": "clinicMenu/BeautyBoardSalon/コージ歯科/kojiShikaStaff1.png",
+                    "message": "皆さまが緊張せず、気軽に通えるような歯科医院を目指して日々の診療に取り組んでいます。皆さまにとってより良い治療を提供し、末永く健康を維持していただくためのお手伝いをいたします。",
+                    "name": "貝塚 浩二",
+                    "position": "院長"
+                }
+            ],
+            "station": "お花茶屋駅",
+            "tel": "0120-814-807",
+            "type": "clinic",
+            "url": "https://www.kohjidc.com/"
+        }
+    },
+    {
+        "id": "cFvRIgclGTshy7NyPzn4",
+        "data": {
+            "accessMessages": [
+                "京成本線「お花茶屋」駅北口を出ると、「プロムナードお花茶屋」という商店街がありますので、その商店街をまっすぐ進んでください。商店街の終わりまで進むと右手に当院があります。駅からは徒歩5分ほどです。"
+            ],
+            "address": " 東京都葛飾区お花茶屋2-5-16",
+            "description1": "セラミック治療システムや歯科用CT、マイクロスコープなど、お口の中を総合的に診て精密な治療を行うための設備を充実しています。",
+            "description2": "ホワイトスポットは、幼少期や妊娠中の時の栄養不足や、遺伝によって出来るものです。自然に、また自力で治すことは不可能なので治療歴のある当院で治療いたします。",
+            "facilitiesMessages": [
+                "歯科用CT／マイクロスコープ／セラミック治療システム／半導体レーザーの2波長／エルビュームレーザー／NDYAGレーザー／炭酸ガスレーザー／エアフロー／ダイアグノデント／電動麻酔器／根管拡大装置／EMSの超音波スケーラ／口腔内乾燥測定器ほか"
+            ],
+            "header1": "葛飾◆お口の中、お肌のことならお任せください。39年間愛されているクリニック。ご自身でも清潔な口内環境を維持できるようサポートいたします。",
+            "header2": "ホワイトスポットを無くして笑顔に自信を",
+            "holidayMessages": [],
+            "images": [
+                {
+                    "description": "お花茶屋駅北口を降りてプロムナードお花茶屋通りをまっすぐ進むと、5分ほどで当院に着きます。",
+                    "path": "clinicMenu/BeautyBoardSalon/コージ歯科/kojiShikaSub1.png"
+                },
+                {
+                    "description": "定期検診から治療後のメンテナンス、さらにご自宅でのケア方法の指導まで、健康な歯とお口を維持するためのサポートをしています。",
+                    "path": "clinicMenu/BeautyBoardSalon/コージ歯科/kojiShikaSub2.png"
+                },
+                {
+                    "description": "歯科医院に苦手意識を持つ原因の一つが治療時の痛みだと思います。その痛みを軽減するために、当院では麻酔の仕方からこだわり、リラックスして治療に臨んでいただけるよう配慮しています。",
+                    "path": "clinicMenu/BeautyBoardSalon/コージ歯科/kojiShikaSub3.png"
+                },
+                {
+                    "description": "患者さまにかかる負担を軽減するため、新しい機器を積極的に導入してより良い治療を提供。口腔外バキュームの設置や使用器具の滅菌処理、診療台の水の定期的な循環など、衛生管理も徹底しています。",
+                    "path": "clinicMenu/BeautyBoardSalon/コージ歯科/kojiShikaSub4.png"
+                }
+            ],
+            "menus": [
+                {
+                    "category": [
+                        "歯"
+                    ],
+                    "genre": [
+                        "クリニック"
+                    ],
+                    "imageUrl": "clinicMenu/BeautyBoardSalon/コージ歯科/ホワイトスポット 1箇所/squareMenuWhitespot1.png",
+                    "imageUrlLarge": "clinicMenu/BeautyBoardSalon/コージ歯科/ホワイトスポット 1箇所/rectangleMenuWhitespot1.png",
+                    "name": "ホワイトスポット 1箇所",
+                    "price": 44000,
+                    "procedure": "まずは、どのようなお悩みを抱えているのか、どうなりたいと思っているのかなど患者さまの要望を詳しくお伺いし、それに添った治療計画を立てていきます。それから治療に入ります。",
+                    "recommendMessages": [
+                        "ホワイトスポット（歯の表面にある白い斑点）が気になる"
+                    ],
+                    "tag": [
+                        "ホワイトスポット",
+                        "白濁"
+                    ],
+                    "topImageUrl": "clinicMenu/BeautyBoardSalon/コージ歯科/ホワイトスポット 1箇所/squareMenuWhitespot1.png"
+                }
+            ],
+            "message": "表面麻酔や電動注射器などを使用して痛みの少ない治療を提供できるようにしたり、セラミック治療システムを導入することで、少ない回数で治療を終えられるようにしています。お口の問題でお悩みの方はお気軽にご相談ください！",
+            "name": "コージ歯科",
+            "openingHoursMessages": [
+                "【月～金】9:30〜13:00、14:30〜19:00",
+                "【土】　　9：30-12：00",
+                "【日・祝】休診日"
+            ],
+            "remarksMessages": [
+                ""
+            ],
+            "staffInfoMessages": [
+                "5名"
+            ],
+            "staffs": [
+                {
+                    "imageUrl": "clinicMenu/BeautyBoardSalon/コージ歯科/kojiShikaStaff1.png",
+                    "message": "皆さまが緊張せず、気軽に通えるような歯科医院を目指して日々の診療に取り組んでいます。皆さまにとってより良い治療を提供し、末永く健康を維持していただくためのお手伝いをいたします。",
+                    "name": "貝塚 浩二",
+                    "position": "院長"
+                }
+            ],
+            "station": "お花茶屋駅",
+            "tel": "0120-814-807",
+            "type": "clinic",
+            "url": "https://www.kohjidc.com/"
+        }
+    }
+]

@@ -24,8 +24,8 @@
             "program": "${file}",
             "args": ["empowerme"],
             "env": {
-                "ENV_FIRST": "ENV1",
-                "ENV_LAST": "ENV2"
+                "ENV": "local",
+                "SAMPLE": "sample"
             },
             "console": "integratedTerminal",
             "justMyCode": true

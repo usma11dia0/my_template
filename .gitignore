@@ -1,4 +1,4 @@
-utils/firebase/env/
-utils/gcp/env/
-utils/gcp/conf/
-make_input_empowerme.py
+services/firebase/env/
+services/firebase/conf/
+services/gcp/env/
+services/gcp/conf/
