@@ -9,7 +9,7 @@ from googleapiclient.errors import HttpError
 from path_config import GCP_CONF_PATH
 
 
-def get_creds(app_env) -> Credentials:
+def get_creds(app_env):
   """
     Google OAuth2.0認証情報を取得する
     
@@ -85,20 +85,3 @@ def get_gss_values(creds, app_env):
     return values
   except HttpError as err:
     print(err)
-
-
-
-# サービスアカウントキーを使って認証
-# SERVICE_ACCOUNT_FILE = '/workspace/extended-study-382401-8676076ee48a.json'
-# credentials = service_account.Credentials.from_service_account_file(
-#     SERVICE_ACCOUNT_FILE, scopes=SCOPES)
-# # gspreadのクライアントとGoogle Drive APIクライアントを設定
-# gc = gspread.authorize(credentials)
-# # Google Sheets API clientを作成
-# service = discovery.build('sheets', 'v4', credentials=credentials)
-# # Google Drive API clientを作成
-# drive_service = discovery.build('drive', 'v3', credentials=credentials)
-# # Google DriveフォルダIDを指定
-# folder_id = GOOGLE_DRIVE_FOLDER
-# page_token = None
-# items = []

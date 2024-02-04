@@ -16,19 +16,6 @@
             },
             "console": "integratedTerminal",
             "justMyCode": true
-        },
-        {
-            "name": "Python: empowerme",
-            "type": "python",
-            "request": "launch",
-            "program": "${file}",
-            "args": ["empowerme"],
-            "env": {
-                "ENV": "local",
-                "SAMPLE": "sample"
-            },
-            "console": "integratedTerminal",
-            "justMyCode": true
         }
     ]
 }
