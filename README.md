@@ -1,6 +1,5 @@
-# プロジェクト名
-自分用テンプレートリポジトリ
-
+# README テンプレート集
+ 
 ## シールド一覧
 <!-- 使用技術一覧 -->
 <!-- 該当するプロジェクトの中から任意のものを選ぶ-->
@@ -53,9 +52,10 @@
 その他のパッケージのバージョンは pyproject.toml と package.json を参照してください
 
 ## ディレクトリ構成
-<!-- Treeコマンドを使ってディレクトリ構成を記載 -->
-<!-- ❯ tree -a -I "node_modules|.next|.git|.pytest_cache|static" -L 2 -->
-
+Treeコマンドを使ってディレクトリ構成を記載
+```text
+❯ tree -a -I "node_modules|.next|.git|.pytest_cache|static" -L 2
+```
 ```text
 backend
 ├── .gitignore
