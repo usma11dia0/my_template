@@ -120,3 +120,30 @@ http://127.0.0.1:8000 にアクセスできるか確認
 | make show           | 現在のリソースの状態を参照                    | docker-compose -f infra/docker-compose.yml run --rm terraform show     |
 | make apply          | Terraform の内容を適用                       | docker-compose -f infra/docker-compose.yml run --rm terraform apply    |
 | make destroy        | Terraform で構成されたリソースを削除          | docker-compose -f infra/docker-compose.yml run --rm terraform destroy  |
+
+
+### レスポンシブデザイン用 スクリーンサイズ一覧(DeveloperTool以外)
+
+| Size            | 備考                     |
+| ----------------| -------------------------| 
+| 360×640         |   　　　　                | 
+| 360×720         |           　             |  
+| 375×667         | 1位(外部HP) 　　　 　     |
+| 375×812       　| 4位(外部HP)               | 
+| 390×844         | 3位(外部HP)               |
+| 414×896         | ここまでスマホ 5位(外部HP) |
+| 1280×720        |                          | 
+| 1280×800        |                          | 
+| 1366×768        | FWXGA(恐らくノート)       | 
+| 1368×912        |                          | 
+| 1440×900        | 4位(Zenn)                | 
+| 1512×982        | 5位(Zenn)                | 
+| 1536×864        | 3位(Zenn)                | 
+| 1680×1050       |                          | 
+| 1800×1169       |                          | 
+| 1912×958        | BenQ EX2510 ビューポート  | 
+| 1920×1080       | BenQ EX2510 寸法サイズ 2位(外部HP) 1位(Zenn)| 
+| 1920×1200       |                          | 
+| 2552×958        | UG30 ビューポート         | 
+| 2560×1080       | UG30 寸法サイズ           | 
+| 2650×1440       | 2位(Zenn)                | 
