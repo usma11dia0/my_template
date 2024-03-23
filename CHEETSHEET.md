@@ -19,7 +19,7 @@
 | --------------------------  | -------------------------------------------------------------------- | 
 | conda create -n [env名] python==3.x.x      | pythonのバージョンを指定して仮想環境構築                  |
 | conda config --show channels               | 取得先のパッケージコレクション一覧表示                    |
-| conda install -c condaforge [パッケージ名]  | 取得先チャネルを追加して、パッケージをインストール         |
+| conda install -c conda-forge [パッケージ名]  | 取得先チャネルを指定して、パッケージをインストール         |
 | conda config --remove channels [チャネル名] | 取得先チャネルを削除                                    |
 
 ## Docker
