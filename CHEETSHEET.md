@@ -22,6 +22,16 @@
 | conda install -c conda-forge [パッケージ名]  | 取得先チャネルを指定して、パッケージをインストール         |
 | conda config --remove channels [チャネル名] | 取得先チャネルを削除                                    |
 
+## Node Version Manager
+| Command                     | 実行する処理                                                          |
+| --------------------------  | -------------------------------------------------------------------- | 
+| nvm use v●.●.●              | 利用するnodeを変更(バージョンを指定)                                    |
+| nvm ls-remote               | 利用可能なnodeのバージョンを確認 ※Linux,macOS                          |
+| nvm list available          | 利用可能なnodeのバージョンを確認 ※Windows    　                        |
+| $echo "●.●.●" > .nvmrc     | PJで利用するNodeを指定する.nvmrcファイル作成。※作成後nvm useを実行する   |
+
 ## Docker
 | Command                     | 実行する処理                                                          |
 | --------------------------  | -------------------------------------------------------------------- | 
+
+
